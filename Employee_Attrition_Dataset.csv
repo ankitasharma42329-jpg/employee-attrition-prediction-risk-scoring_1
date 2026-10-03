@@ -1,0 +1,1501 @@
+Age,Department,JobRole,MonthlyIncome,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,OverTime,JobInvolvement,PerformanceRating,DistanceFromHome,TrainingTimesLastYear,NumCompaniesWorked,Attrition
+59,Finance,Sales Executive,50525,1,4,3,6,4,Yes,2,2,24,1,6,Yes
+49,HR,Sales Executive,104818,3,4,2,4,2,No,3,3,15,2,9,No
+35,Finance,Manager,139589,1,1,3,17,6,Yes,3,3,23,6,7,Yes
+28,Sales,HR Executive,39334,1,2,4,1,6,No,3,1,4,3,0,No
+41,Sales,Sales Executive,119715,4,3,3,10,1,No,4,2,38,1,9,No
+59,Marketing,Analyst,87767,1,2,1,7,6,No,3,4,4,3,6,Yes
+39,Marketing,Consultant,31644,2,2,3,0,10,No,1,4,5,5,3,Yes
+43,HR,HR Executive,126154,4,4,1,11,5,No,3,4,23,0,5,No
+31,IT,Manager,138237,4,4,2,1,9,No,2,4,37,2,8,Yes
+31,Finance,HR Executive,57933,3,4,3,17,8,Yes,1,4,11,4,4,No
+44,HR,Developer,68469,1,1,2,6,8,Yes,2,1,11,1,7,Yes
+56,Marketing,Developer,58687,1,2,2,16,1,No,2,4,13,0,4,No
+44,Finance,Sales Executive,131609,2,2,3,13,6,No,2,4,14,3,1,No
+23,Marketing,Sales Executive,77656,3,1,1,6,4,No,1,2,8,5,3,Yes
+42,Finance,Analyst,42375,3,1,2,2,5,Yes,1,4,25,6,1,Yes
+22,IT,Consultant,139019,4,1,2,5,0,No,4,3,18,3,6,No
+44,HR,HR Executive,145735,4,2,3,19,6,No,1,1,18,6,6,No
+50,Finance,Developer,90206,4,2,3,1,5,No,3,1,10,5,2,No
+58,Sales,Sales Executive,121462,2,4,3,16,3,Yes,2,1,7,6,6,Yes
+22,Sales,Consultant,61607,2,4,3,11,0,No,4,3,14,5,0,Yes
+41,Finance,HR Executive,108178,4,2,3,11,8,Yes,1,4,15,0,0,Yes
+53,Finance,Sales Executive,48993,3,4,4,16,3,Yes,2,1,16,1,8,Yes
+32,Finance,Sales Executive,69386,2,1,3,9,1,No,1,3,2,4,5,Yes
+42,Sales,Developer,148394,3,3,1,2,7,Yes,4,2,30,1,4,Yes
+45,Sales,Developer,71287,3,4,2,19,1,Yes,1,4,30,2,5,Yes
+47,Finance,Sales Executive,111724,1,2,1,17,4,Yes,1,3,18,1,5,Yes
+48,Marketing,Manager,123132,4,4,1,12,10,No,2,4,31,5,0,No
+36,Marketing,Sales Executive,118308,1,4,4,11,5,Yes,3,2,13,5,4,Yes
+35,IT,Consultant,121393,4,4,3,16,10,No,1,3,20,2,8,No
+23,HR,Sales Executive,101312,4,3,2,3,7,No,4,4,35,3,3,Yes
+57,Marketing,Analyst,123371,3,1,1,9,10,No,1,3,23,5,2,No
+27,Sales,Analyst,100324,4,2,3,10,0,Yes,1,1,33,2,0,Yes
+41,Marketing,Analyst,96196,3,3,3,5,0,No,3,4,38,5,1,No
+29,IT,Manager,95014,3,2,4,5,11,Yes,2,3,35,4,2,No
+59,IT,Manager,33210,4,2,4,8,3,Yes,4,1,36,5,3,No
+38,HR,Sales Executive,35922,3,2,4,14,4,Yes,2,2,20,0,6,No
+24,Marketing,Analyst,61289,3,3,2,1,8,Yes,2,4,3,2,5,Yes
+45,Sales,Manager,58340,3,1,1,3,10,No,2,4,8,6,7,No
+34,Sales,Developer,64850,2,2,4,4,6,No,1,2,32,1,8,Yes
+29,Finance,Sales Executive,81984,3,1,4,16,6,Yes,3,1,29,2,5,Yes
+46,Sales,Consultant,128699,2,1,4,7,7,No,1,2,7,3,6,Yes
+22,HR,HR Executive,138711,2,4,1,7,4,No,4,4,2,5,3,No
+40,HR,Sales Executive,109178,3,3,1,11,4,No,3,3,21,2,1,No
+48,Sales,HR Executive,36094,3,3,4,7,0,Yes,2,1,6,4,8,Yes
+27,Sales,Analyst,112959,2,4,4,18,8,No,3,1,28,2,8,Yes
+28,Finance,HR Executive,58418,2,4,3,2,5,Yes,4,1,36,4,3,Yes
+55,Sales,Analyst,30741,3,1,4,17,8,No,1,2,32,5,2,No
+34,Finance,Developer,136585,3,2,2,18,2,Yes,1,2,9,1,9,Yes
+37,Finance,HR Executive,97374,4,3,2,18,4,Yes,2,3,11,5,5,Yes
+56,Sales,Sales Executive,142275,2,2,4,14,1,Yes,1,3,23,3,2,Yes
+24,IT,Analyst,147564,2,2,1,5,9,No,1,1,11,0,0,No
+22,IT,Sales Executive,93798,4,4,3,15,4,Yes,4,3,2,1,3,No
+26,Finance,Manager,141026,2,2,1,7,7,No,3,2,3,1,0,No
+24,Sales,Analyst,95532,1,1,4,15,10,Yes,1,3,11,0,1,Yes
+49,IT,HR Executive,135130,2,4,2,17,1,No,4,2,35,2,2,No
+38,Sales,Analyst,47164,4,2,3,19,7,Yes,4,3,15,5,7,No
+46,Sales,Sales Executive,60595,1,4,1,15,3,No,2,4,11,2,9,Yes
+54,Sales,Developer,55257,3,1,1,10,9,Yes,4,2,31,2,3,Yes
+30,Marketing,Analyst,39211,4,1,4,6,9,Yes,2,4,28,5,3,No
+56,Sales,HR Executive,120989,4,2,3,16,0,Yes,1,2,28,3,9,Yes
+34,Marketing,Manager,30232,3,4,2,16,4,No,2,3,32,1,8,Yes
+51,Finance,Consultant,92753,4,2,4,11,0,Yes,4,4,25,4,6,No
+35,IT,Developer,77691,2,2,3,12,6,Yes,3,3,20,0,1,Yes
+28,IT,Manager,114765,3,4,1,9,7,Yes,3,2,28,1,2,No
+34,IT,Analyst,104768,4,2,4,6,2,Yes,1,4,25,2,3,Yes
+43,IT,Sales Executive,50613,3,1,1,13,2,No,1,1,11,0,3,No
+41,IT,Sales Executive,39026,3,4,1,0,6,Yes,3,3,19,4,9,Yes
+36,IT,HR Executive,78535,3,4,4,16,3,Yes,2,2,28,1,7,Yes
+38,IT,Sales Executive,119090,1,4,4,3,2,No,1,4,1,1,9,No
+44,Finance,Developer,55908,4,4,4,4,7,No,4,3,5,3,9,No
+46,Sales,Sales Executive,77113,1,2,4,19,2,No,1,4,10,1,5,No
+45,HR,HR Executive,44610,4,2,4,6,6,Yes,2,3,34,1,2,Yes
+49,Marketing,Consultant,71646,2,1,1,9,1,No,1,3,36,4,8,Yes
+35,HR,Analyst,130141,2,3,2,16,10,No,4,3,2,4,9,Yes
+21,HR,Analyst,88185,2,3,2,6,10,No,4,4,18,0,7,Yes
+45,Sales,Sales Executive,97567,4,1,4,0,0,Yes,4,4,13,2,8,Yes
+27,Sales,Manager,72574,3,3,1,6,11,Yes,2,3,5,4,4,Yes
+29,Sales,Analyst,148978,3,1,2,10,5,Yes,2,1,20,0,2,Yes
+44,IT,Consultant,116051,1,2,2,8,7,No,4,1,2,1,3,Yes
+21,Finance,Sales Executive,127020,1,4,2,11,0,Yes,4,1,11,0,4,Yes
+28,IT,HR Executive,61182,2,4,1,2,9,No,2,2,30,0,8,Yes
+44,Finance,Consultant,141136,1,2,4,3,11,No,2,1,32,0,8,Yes
+31,Finance,Sales Executive,25570,4,4,4,3,8,No,2,4,32,5,2,No
+37,HR,Consultant,122790,4,4,4,12,2,Yes,3,1,38,0,6,Yes
+28,HR,Analyst,44288,1,3,3,18,2,No,2,4,28,4,5,Yes
+55,Finance,HR Executive,103824,1,2,3,9,3,No,4,2,10,6,3,Yes
+55,Finance,Sales Executive,54877,1,3,3,4,10,Yes,3,4,22,6,4,Yes
+53,IT,Developer,109425,1,3,1,6,0,No,2,4,17,6,9,Yes
+25,IT,HR Executive,25917,2,4,2,15,8,No,4,4,22,6,1,No
+59,HR,Developer,100602,2,4,2,0,10,No,1,1,19,5,6,Yes
+48,Sales,Consultant,120040,1,2,1,11,2,Yes,3,3,17,2,3,No
+27,Finance,Manager,89575,4,4,1,1,9,No,4,4,24,0,1,No
+29,IT,HR Executive,97518,2,4,4,6,3,Yes,1,1,36,3,5,Yes
+28,HR,Consultant,147115,4,2,4,10,0,Yes,4,1,32,6,1,No
+32,IT,Developer,64104,3,4,3,12,3,No,2,1,36,1,9,No
+54,Finance,Analyst,43062,4,3,3,1,0,No,2,3,28,6,1,No
+53,Finance,Analyst,41999,1,2,1,6,4,No,1,3,14,6,6,Yes
+43,Marketing,Manager,86845,3,4,3,14,4,No,2,3,36,1,0,No
+44,Sales,HR Executive,34941,2,1,2,10,10,Yes,4,3,6,5,6,Yes
+57,Marketing,HR Executive,86169,2,2,1,1,6,Yes,1,2,9,1,9,Yes
+55,HR,HR Executive,48470,3,2,1,6,7,No,4,3,21,1,4,No
+42,IT,Consultant,135684,4,1,2,3,3,Yes,4,3,12,5,0,Yes
+47,HR,Manager,84821,2,4,4,10,6,No,4,3,30,1,5,No
+55,Finance,HR Executive,111669,1,4,4,1,3,No,2,4,31,0,6,Yes
+21,Marketing,Consultant,143193,3,2,2,15,2,No,2,4,4,6,0,Yes
+55,Marketing,Analyst,69435,1,2,2,6,5,No,4,3,31,2,8,Yes
+57,Marketing,Developer,29529,3,4,3,12,3,Yes,3,2,27,5,6,Yes
+34,HR,Consultant,108055,2,4,1,4,2,Yes,4,4,25,3,0,Yes
+23,Finance,Analyst,37192,4,3,3,16,8,No,4,1,5,5,2,No
+21,IT,Analyst,99102,3,2,2,11,4,No,1,4,6,4,4,Yes
+25,IT,Developer,97762,3,2,3,18,6,Yes,4,1,5,3,3,No
+46,HR,Analyst,128466,1,1,2,6,11,Yes,2,4,27,4,1,Yes
+34,Marketing,Manager,139894,2,3,3,5,5,Yes,1,3,8,5,0,Yes
+59,Sales,Developer,111795,1,4,3,7,9,No,3,4,9,4,3,No
+47,HR,Analyst,59087,2,3,4,12,4,Yes,1,3,15,3,6,Yes
+29,HR,Sales Executive,91677,1,4,2,4,6,No,3,3,36,0,3,No
+35,Finance,Consultant,29627,3,4,3,1,10,No,1,4,7,5,8,No
+35,IT,Analyst,81541,1,3,1,8,5,Yes,1,1,32,5,7,Yes
+46,HR,Manager,137805,4,2,3,10,9,No,3,1,8,1,7,No
+33,HR,HR Executive,93226,2,4,3,5,1,Yes,2,4,15,5,4,No
+52,Marketing,Analyst,130627,2,3,1,6,2,No,2,3,37,6,0,No
+59,Marketing,HR Executive,28255,3,1,2,6,1,No,2,1,19,6,8,Yes
+52,Sales,Sales Executive,82433,2,3,4,18,11,No,1,2,39,5,1,Yes
+24,Finance,Analyst,30213,4,1,4,5,2,No,4,3,6,0,5,No
+50,Sales,Developer,127412,1,4,4,10,0,No,1,4,19,1,9,Yes
+57,Marketing,HR Executive,44404,3,3,1,10,7,No,4,3,28,2,4,No
+43,IT,Sales Executive,141545,4,3,3,6,5,Yes,4,2,17,4,9,No
+59,Marketing,Developer,50380,2,1,2,1,1,Yes,2,2,19,3,7,Yes
+35,Finance,Developer,116056,2,3,3,18,7,No,4,1,31,2,2,Yes
+49,Marketing,Developer,44173,4,3,4,3,5,Yes,1,2,11,1,5,No
+56,Finance,Developer,78027,1,4,3,5,6,No,1,3,15,6,5,No
+33,Finance,Analyst,48989,1,3,1,16,10,Yes,2,1,10,6,9,Yes
+52,Finance,Consultant,133106,3,2,1,4,0,Yes,3,2,23,6,2,Yes
+27,Finance,Analyst,49519,2,1,2,6,6,No,1,1,3,0,6,Yes
+42,Finance,Analyst,47439,4,3,2,8,2,Yes,4,1,3,6,3,No
+48,IT,Sales Executive,143570,1,1,4,0,10,No,1,4,18,3,4,No
+22,Sales,Sales Executive,101949,3,1,2,0,11,Yes,1,1,25,4,8,Yes
+26,HR,Consultant,39995,2,1,3,18,7,No,1,1,20,5,5,No
+48,Sales,Sales Executive,48559,2,3,1,5,5,Yes,3,2,29,5,9,Yes
+48,Finance,Manager,135887,3,3,1,17,3,No,4,3,22,2,3,No
+40,IT,Consultant,114049,3,1,1,9,10,Yes,2,3,15,4,7,Yes
+50,Marketing,Sales Executive,30021,1,2,2,10,7,No,1,2,39,1,8,Yes
+31,IT,Consultant,123000,4,1,1,0,8,Yes,4,3,10,4,9,Yes
+48,Finance,Analyst,46119,2,2,1,0,9,No,4,1,21,0,4,Yes
+45,IT,Analyst,76539,4,1,1,12,1,Yes,2,4,29,2,1,Yes
+59,IT,Consultant,119835,2,4,4,4,5,No,1,1,32,2,5,Yes
+53,Finance,Manager,64350,2,1,4,19,4,Yes,3,1,10,0,7,Yes
+21,IT,Manager,71223,4,1,2,0,4,No,4,4,13,4,4,No
+47,HR,Consultant,50517,3,3,1,19,9,No,2,2,23,6,0,No
+33,HR,Sales Executive,103653,1,2,2,2,10,No,3,1,23,0,7,Yes
+23,IT,HR Executive,47250,2,4,1,17,2,No,4,1,31,6,8,Yes
+59,Marketing,Manager,109486,3,2,1,8,11,Yes,1,2,4,3,0,Yes
+26,Finance,Developer,107895,2,4,1,13,7,Yes,4,1,3,0,7,Yes
+28,HR,Analyst,114132,1,1,2,16,7,Yes,3,1,21,6,9,Yes
+47,Marketing,Consultant,116066,2,3,2,13,11,No,3,3,2,4,1,Yes
+29,IT,Developer,91798,1,3,1,3,4,No,1,2,4,6,3,Yes
+57,Marketing,Consultant,79199,1,2,3,4,7,No,1,1,1,0,1,Yes
+53,Sales,Analyst,148823,2,3,2,16,9,No,2,1,15,1,1,Yes
+44,HR,Analyst,84546,2,2,4,1,7,No,1,4,33,5,9,Yes
+35,IT,Manager,130686,1,2,2,4,2,Yes,2,4,6,0,2,Yes
+52,Finance,Manager,113151,3,4,1,3,1,Yes,3,4,7,5,7,Yes
+52,IT,Developer,28327,4,2,3,3,8,Yes,3,1,19,0,3,No
+44,Finance,Consultant,145318,1,4,1,5,1,No,4,1,1,4,6,No
+32,IT,Analyst,54768,2,3,4,19,8,No,4,4,39,3,9,Yes
+59,Marketing,Developer,89418,2,2,2,12,3,No,2,3,19,3,2,No
+22,Marketing,HR Executive,119386,3,2,2,4,11,No,1,3,26,5,9,Yes
+23,Marketing,Developer,141947,4,1,1,6,1,No,1,3,12,4,2,No
+57,Sales,Sales Executive,67788,1,2,1,19,9,No,4,3,22,6,1,No
+37,Finance,Developer,140945,1,2,4,0,0,No,3,2,13,4,5,Yes
+22,Marketing,Sales Executive,107384,4,1,3,13,3,Yes,2,4,28,4,5,No
+22,Sales,Sales Executive,71830,1,1,4,3,8,Yes,3,1,14,1,0,Yes
+48,Finance,Sales Executive,77446,4,3,3,16,11,No,3,4,22,2,6,No
+43,IT,HR Executive,130078,2,2,2,13,8,No,1,3,30,0,3,Yes
+57,Sales,Developer,40160,4,3,3,15,3,No,2,1,20,4,2,No
+52,HR,Developer,81583,1,3,3,13,8,Yes,3,2,27,4,7,Yes
+53,Sales,HR Executive,58998,4,1,2,15,11,Yes,4,4,38,4,1,Yes
+21,Sales,Analyst,52230,3,4,2,19,5,No,4,1,34,3,8,No
+39,Finance,Manager,34076,2,3,2,7,0,Yes,1,1,39,4,7,Yes
+22,IT,Developer,94341,2,4,4,2,9,Yes,4,3,37,0,7,Yes
+46,HR,Manager,56085,4,2,2,18,5,Yes,4,3,1,6,2,Yes
+52,Marketing,Consultant,80571,1,1,1,0,8,No,3,4,15,6,3,Yes
+26,Marketing,Consultant,39715,3,2,2,1,1,Yes,4,2,32,4,1,Yes
+52,Sales,HR Executive,30750,2,2,2,14,5,Yes,4,1,8,0,1,Yes
+24,Finance,Consultant,138931,2,1,2,9,1,No,3,3,33,1,3,No
+31,Finance,Consultant,103768,1,2,3,17,3,No,1,4,18,6,5,Yes
+37,Marketing,Analyst,143544,1,1,4,13,7,Yes,1,3,29,2,4,Yes
+58,HR,Analyst,60903,3,4,2,16,6,No,2,4,32,3,0,No
+44,IT,Analyst,97489,4,2,4,12,10,Yes,4,3,33,0,9,No
+25,HR,Consultant,57093,1,1,1,0,11,Yes,3,2,5,6,0,Yes
+54,IT,HR Executive,116036,4,3,1,4,8,No,2,1,18,6,5,Yes
+26,Marketing,Sales Executive,112954,3,2,2,12,6,No,1,3,10,5,2,Yes
+42,IT,Sales Executive,144277,4,4,1,13,0,Yes,1,1,36,1,2,Yes
+31,Finance,Manager,59314,2,1,4,2,1,No,3,4,33,2,6,Yes
+36,Sales,Sales Executive,73225,4,2,3,14,5,No,2,2,23,2,0,No
+53,Sales,Sales Executive,112985,3,2,2,18,6,Yes,2,1,5,2,0,Yes
+29,Marketing,Analyst,108014,3,2,1,16,2,Yes,3,3,34,0,9,Yes
+26,Finance,Analyst,60179,3,4,4,2,8,Yes,3,1,24,1,2,Yes
+36,HR,Consultant,142305,4,1,4,15,6,Yes,2,1,17,4,7,Yes
+49,Finance,Manager,137417,2,3,1,13,5,Yes,1,4,31,5,0,Yes
+23,Sales,Developer,50338,1,3,4,11,5,Yes,4,2,7,1,9,No
+40,Sales,Manager,117435,2,3,4,11,0,No,1,2,17,1,3,No
+56,Finance,Manager,94681,4,1,2,10,4,No,3,1,28,6,8,No
+39,Finance,HR Executive,57101,4,3,4,16,9,Yes,2,1,38,1,3,Yes
+46,Sales,Consultant,27775,1,4,1,7,2,No,2,4,22,0,9,Yes
+23,HR,HR Executive,136497,4,1,2,16,6,No,4,1,15,5,7,No
+39,Marketing,Manager,122183,3,2,1,19,9,Yes,2,4,37,0,6,Yes
+40,Marketing,Manager,70619,3,4,3,10,2,No,4,2,15,5,2,No
+52,Finance,Manager,70838,3,2,1,1,4,No,1,2,25,5,6,Yes
+27,Marketing,Sales Executive,146316,3,3,1,9,6,Yes,1,4,21,6,6,No
+53,Sales,HR Executive,44539,3,4,2,9,2,No,2,1,38,0,9,Yes
+59,Sales,Manager,127274,4,1,4,10,9,No,2,2,2,5,2,No
+38,Finance,Analyst,82124,1,4,1,5,1,Yes,3,3,27,1,1,No
+21,Finance,Consultant,90149,1,2,2,3,5,No,3,4,32,0,8,Yes
+31,Finance,Consultant,51616,3,1,3,11,7,No,2,2,21,5,0,No
+48,HR,Analyst,104655,4,4,2,10,3,No,2,2,4,2,6,Yes
+45,Marketing,Consultant,115695,2,4,2,12,8,Yes,1,2,19,0,3,Yes
+43,Finance,Sales Executive,79567,2,4,4,4,11,Yes,2,3,2,6,1,Yes
+51,IT,Sales Executive,62099,4,4,1,5,11,No,3,3,26,3,1,Yes
+50,IT,Developer,100831,3,1,3,0,7,No,1,3,34,0,7,No
+55,Sales,Developer,125246,1,2,2,5,6,Yes,4,1,14,0,6,Yes
+27,Marketing,Developer,86799,4,4,1,17,6,Yes,3,4,15,0,6,No
+36,Finance,Consultant,145714,2,1,1,8,2,No,3,1,20,5,4,Yes
+46,IT,Sales Executive,115221,2,2,2,14,5,Yes,1,3,34,0,9,Yes
+22,Marketing,Sales Executive,139879,2,4,1,7,4,No,4,4,36,3,7,Yes
+21,Sales,Sales Executive,50479,3,2,2,18,0,No,3,1,19,4,1,No
+32,HR,Analyst,71172,2,2,2,15,10,Yes,2,1,9,0,1,Yes
+25,Marketing,Sales Executive,124165,4,1,2,5,2,Yes,3,1,7,2,4,No
+57,Marketing,Analyst,80863,4,2,3,5,11,No,1,3,30,3,0,No
+52,HR,Developer,67043,2,1,2,2,0,No,1,2,13,4,5,Yes
+29,Marketing,Developer,107569,4,4,4,9,3,Yes,1,4,27,5,3,Yes
+55,Sales,Consultant,127438,2,2,1,0,9,No,3,3,35,0,5,Yes
+39,Sales,Developer,135107,2,2,3,13,2,Yes,4,4,13,4,6,Yes
+36,HR,Consultant,40408,1,3,1,3,10,Yes,2,3,15,2,2,Yes
+23,Finance,Manager,147275,3,4,3,11,3,Yes,1,1,9,3,7,Yes
+40,IT,Manager,82980,3,4,4,5,8,Yes,4,1,23,3,6,Yes
+44,Finance,HR Executive,107956,1,3,3,10,2,Yes,2,2,36,5,0,Yes
+53,Marketing,Consultant,41351,1,3,3,11,11,No,1,2,3,5,5,Yes
+44,IT,HR Executive,29131,3,1,3,9,5,Yes,2,4,34,5,6,Yes
+31,HR,HR Executive,141836,2,1,1,17,5,Yes,2,2,19,4,3,Yes
+28,HR,Manager,69825,2,2,2,6,6,Yes,4,2,28,0,1,Yes
+56,IT,Consultant,36349,3,2,1,6,8,Yes,2,4,23,1,9,Yes
+58,Sales,Manager,85931,2,2,2,10,11,Yes,1,3,7,3,8,Yes
+40,IT,HR Executive,69254,1,2,1,3,6,Yes,4,2,12,1,6,Yes
+55,Marketing,Consultant,63225,2,1,4,19,0,Yes,3,3,14,6,0,Yes
+45,Sales,HR Executive,129383,2,4,4,0,7,No,3,1,15,3,7,Yes
+55,HR,Sales Executive,37453,4,2,3,12,4,No,4,2,3,5,2,Yes
+45,IT,Consultant,43814,4,4,4,17,8,No,3,1,15,0,3,No
+49,Finance,Consultant,43263,4,2,3,8,9,No,2,1,24,0,4,No
+38,Finance,HR Executive,102694,2,3,2,8,11,Yes,1,3,8,3,0,Yes
+38,Marketing,Sales Executive,40735,3,2,4,8,4,No,2,4,5,4,5,Yes
+22,Finance,Analyst,40830,1,2,2,9,4,Yes,4,2,4,6,9,Yes
+55,IT,Manager,72893,2,2,1,1,11,No,1,3,14,5,5,Yes
+36,IT,HR Executive,69673,3,1,2,5,11,No,4,4,16,0,1,No
+56,Finance,Consultant,114462,2,3,1,14,1,Yes,4,1,20,6,9,Yes
+53,IT,Manager,70066,1,2,2,2,11,Yes,4,2,24,6,5,Yes
+24,Marketing,Manager,125315,2,2,2,10,10,No,2,1,6,0,7,Yes
+53,Sales,Manager,28373,1,4,4,5,2,No,1,1,31,2,5,Yes
+34,Marketing,Analyst,35335,2,3,2,2,9,No,1,2,6,6,3,Yes
+41,Marketing,Developer,48741,1,2,4,10,8,No,1,4,35,0,3,Yes
+40,IT,HR Executive,35692,2,4,4,14,6,Yes,2,4,15,2,8,Yes
+28,Sales,Developer,72295,1,4,3,12,0,No,3,2,29,0,5,Yes
+27,IT,Developer,70541,4,1,3,19,2,No,2,2,3,0,7,No
+23,HR,Developer,59057,2,4,1,9,11,No,2,3,11,6,7,Yes
+37,IT,Manager,91983,2,2,2,5,1,No,4,3,3,4,6,Yes
+53,IT,Sales Executive,44583,3,1,1,14,0,No,1,1,28,4,2,No
+32,IT,Manager,47765,3,1,2,17,8,Yes,1,2,10,5,9,Yes
+42,Sales,Manager,84287,1,2,3,17,7,Yes,3,4,33,0,0,Yes
+42,IT,Consultant,48906,2,3,3,6,4,Yes,3,1,16,5,4,Yes
+50,Sales,Consultant,145747,1,4,2,14,10,Yes,4,1,10,5,9,Yes
+58,Finance,Developer,110103,4,1,2,17,11,Yes,1,1,33,5,9,Yes
+58,HR,Manager,104675,3,3,3,17,1,No,3,1,36,5,1,No
+28,Sales,Developer,71525,1,2,3,19,0,Yes,3,4,3,3,9,Yes
+47,Finance,Consultant,63230,1,4,1,8,6,Yes,1,1,5,6,1,Yes
+47,Sales,Sales Executive,142904,3,4,3,1,10,No,2,2,12,6,6,No
+54,Sales,HR Executive,44520,2,1,2,7,10,Yes,3,3,13,3,2,Yes
+41,HR,Developer,110238,1,4,1,19,1,Yes,1,4,24,0,7,Yes
+50,Marketing,Sales Executive,76934,3,4,2,1,0,Yes,3,2,32,3,8,Yes
+53,Marketing,HR Executive,50566,2,4,4,10,1,Yes,4,2,16,0,7,Yes
+48,Sales,Analyst,98193,4,4,1,6,6,No,3,2,32,4,5,No
+53,IT,Developer,128224,3,2,2,5,6,No,1,3,37,6,4,No
+25,Finance,Developer,55134,1,3,3,9,9,Yes,3,3,36,1,2,Yes
+39,IT,Analyst,35345,4,2,4,4,5,No,4,3,21,2,2,No
+24,IT,Analyst,146012,2,2,2,10,4,Yes,4,2,12,6,6,Yes
+55,Sales,Developer,146015,2,1,1,0,2,No,3,3,21,3,4,Yes
+37,Sales,Analyst,66185,3,4,2,1,11,No,3,1,21,3,5,No
+48,Sales,Manager,140464,3,2,4,0,2,No,4,3,6,4,5,No
+50,Sales,HR Executive,117949,3,4,1,18,10,No,4,4,9,3,8,No
+49,Marketing,HR Executive,95744,2,2,4,1,11,No,2,2,1,0,0,Yes
+26,Sales,HR Executive,58455,4,2,2,19,8,No,2,2,12,0,7,Yes
+55,Marketing,Manager,140217,2,1,3,3,3,No,4,1,14,1,9,No
+57,Marketing,Analyst,53018,1,3,3,11,8,No,3,3,6,1,4,No
+44,Sales,Sales Executive,79219,2,3,2,19,3,No,1,3,1,6,5,Yes
+49,HR,Analyst,70991,1,2,2,17,1,No,3,4,22,1,5,Yes
+51,Finance,Developer,98616,4,1,2,0,3,No,3,1,34,0,0,No
+55,IT,Consultant,112438,3,4,1,0,5,Yes,2,4,11,5,2,Yes
+53,Marketing,HR Executive,141841,3,4,4,13,5,No,2,4,3,5,5,Yes
+41,Finance,Analyst,34486,2,2,4,3,4,Yes,2,2,6,1,8,Yes
+52,HR,Sales Executive,63862,3,3,4,4,0,No,4,2,6,1,5,No
+43,IT,Developer,146662,4,1,2,10,2,Yes,4,3,20,0,5,Yes
+53,IT,Manager,83870,3,3,4,12,4,Yes,3,3,21,4,0,No
+23,Marketing,Manager,111694,2,4,2,15,5,Yes,3,4,2,6,8,Yes
+38,Sales,Sales Executive,130996,4,3,1,12,0,No,1,3,26,3,3,Yes
+45,HR,Developer,68856,1,4,3,1,8,No,3,4,31,6,1,Yes
+51,Marketing,HR Executive,126407,2,1,2,15,2,No,3,3,26,2,0,Yes
+23,HR,Analyst,125744,1,1,2,5,9,No,2,3,32,5,2,Yes
+44,Sales,Developer,111055,4,2,3,13,2,Yes,2,2,10,5,2,Yes
+52,Sales,Manager,56379,2,2,3,0,10,No,2,2,23,0,4,Yes
+42,Marketing,Sales Executive,89729,2,3,1,16,1,No,2,2,6,6,0,Yes
+43,Sales,Sales Executive,53378,4,1,4,10,7,No,2,2,23,0,6,No
+22,Finance,Analyst,130428,3,1,2,18,2,No,1,1,28,2,0,No
+47,IT,Sales Executive,79353,2,2,4,2,5,No,1,2,30,6,3,Yes
+22,Marketing,Sales Executive,74996,2,4,2,10,1,No,1,1,14,2,5,No
+46,HR,Developer,39031,1,3,1,4,6,No,2,2,37,1,0,No
+37,Finance,HR Executive,105072,3,3,3,16,3,No,4,3,32,6,6,No
+53,Marketing,Analyst,90982,1,2,1,6,8,Yes,2,4,34,2,9,Yes
+29,Sales,Developer,61683,1,1,3,9,9,Yes,2,3,22,3,6,Yes
+59,Sales,HR Executive,139091,3,2,4,10,8,No,1,3,31,3,2,No
+49,Sales,Developer,142797,3,2,4,2,6,No,2,1,7,5,3,Yes
+46,Sales,Consultant,42618,4,2,1,19,11,No,1,2,21,3,5,Yes
+55,HR,Developer,31587,3,2,3,9,7,No,2,4,16,6,6,No
+45,Finance,Sales Executive,87790,2,4,1,9,2,Yes,3,4,20,3,3,Yes
+44,IT,HR Executive,56480,3,4,3,13,10,Yes,4,2,19,3,9,No
+33,HR,Analyst,123530,4,1,3,11,4,No,4,1,32,1,8,No
+27,HR,Analyst,45527,4,2,4,14,1,Yes,1,1,15,5,8,Yes
+56,IT,HR Executive,48569,4,4,4,9,9,Yes,3,1,5,0,8,Yes
+40,IT,Sales Executive,36151,3,1,3,9,6,No,4,4,11,5,9,No
+21,Sales,Manager,96094,3,2,3,18,7,No,1,1,15,5,5,No
+28,HR,Developer,84174,1,3,3,0,8,No,2,1,29,5,1,No
+36,Marketing,Sales Executive,69739,1,4,4,9,10,Yes,2,4,4,2,1,Yes
+34,IT,Consultant,57954,2,1,4,1,10,Yes,3,4,36,0,3,Yes
+32,IT,HR Executive,137984,1,3,2,16,6,No,4,3,23,2,8,No
+43,Finance,Developer,137863,2,2,3,6,9,No,2,4,15,1,2,Yes
+35,Marketing,Analyst,134373,4,2,2,6,9,Yes,1,2,3,1,5,No
+48,Marketing,Manager,60303,1,2,3,19,7,Yes,2,4,32,4,1,Yes
+54,IT,Consultant,59700,3,4,4,8,11,No,2,4,10,4,0,No
+22,Sales,Analyst,118036,1,1,2,1,8,Yes,4,1,38,1,4,Yes
+52,Finance,HR Executive,148728,2,3,2,13,5,No,4,3,22,1,7,No
+43,Marketing,Developer,92568,1,1,1,16,11,No,1,1,14,2,9,Yes
+42,IT,HR Executive,91788,4,4,3,0,11,Yes,3,3,17,1,9,Yes
+45,Marketing,Developer,96045,3,1,4,8,9,Yes,3,1,21,6,1,No
+42,Finance,Sales Executive,62842,2,4,1,19,1,Yes,2,2,15,0,9,Yes
+42,Finance,Manager,38900,3,2,1,18,1,No,1,1,15,2,8,Yes
+26,HR,Sales Executive,105059,3,3,3,3,3,No,3,1,1,1,7,No
+35,IT,Sales Executive,26881,2,2,1,7,8,No,3,2,24,2,2,Yes
+57,Finance,HR Executive,58037,3,1,3,12,6,No,2,2,12,2,0,Yes
+53,HR,Manager,26630,3,2,1,3,1,No,1,4,10,3,3,No
+28,HR,Developer,45789,1,3,3,8,7,No,3,1,31,4,7,Yes
+25,Marketing,Developer,113059,3,2,4,8,10,Yes,4,2,11,2,2,Yes
+59,Marketing,Consultant,108494,3,3,3,17,6,No,4,2,16,5,9,No
+24,HR,Analyst,71151,3,3,3,11,8,No,2,4,9,6,1,No
+26,Marketing,Consultant,73920,3,2,2,9,7,No,2,3,14,6,6,No
+52,Finance,Consultant,134388,2,4,4,10,2,No,2,2,19,2,3,No
+50,Sales,Developer,92231,4,1,4,6,0,Yes,2,2,31,5,5,Yes
+55,Finance,HR Executive,142946,1,4,4,8,1,No,3,1,9,6,4,Yes
+36,HR,Sales Executive,105357,3,4,1,5,1,Yes,1,4,36,3,1,No
+33,HR,Sales Executive,28262,3,2,2,18,3,Yes,2,1,39,1,9,Yes
+50,Finance,Sales Executive,91981,2,1,4,15,5,No,2,3,26,2,1,No
+39,Marketing,Manager,145951,4,1,1,14,3,No,3,4,8,3,8,No
+37,Marketing,Developer,148099,3,4,1,6,8,Yes,2,1,24,0,9,No
+39,HR,HR Executive,106972,2,2,1,15,3,Yes,2,2,8,3,1,Yes
+48,IT,Manager,100485,1,1,2,4,5,No,1,2,19,4,7,Yes
+46,Marketing,Analyst,79722,1,4,1,15,5,Yes,4,4,30,4,7,Yes
+57,Finance,HR Executive,114499,3,1,2,0,9,No,2,2,22,1,0,No
+46,Marketing,Consultant,75818,3,2,3,18,10,No,3,1,9,5,0,No
+43,Finance,HR Executive,54932,4,2,1,4,9,Yes,1,4,4,1,3,Yes
+29,HR,HR Executive,31901,4,2,4,6,0,No,3,2,37,6,1,Yes
+32,Marketing,Sales Executive,142473,3,1,1,18,7,No,1,2,8,5,0,Yes
+21,Finance,HR Executive,124023,2,3,3,4,11,No,1,3,1,5,8,No
+21,HR,Consultant,33597,4,1,3,16,2,Yes,2,3,28,5,2,Yes
+54,IT,Consultant,88909,3,3,1,7,5,Yes,2,4,6,5,0,No
+52,Finance,Developer,97391,4,2,3,0,2,Yes,2,3,36,4,1,Yes
+45,IT,HR Executive,109214,3,4,2,1,10,No,4,1,11,6,7,No
+21,IT,Sales Executive,33263,1,3,2,14,1,Yes,4,2,5,4,4,Yes
+36,Sales,HR Executive,88293,3,2,1,19,4,Yes,3,2,24,2,6,Yes
+59,Marketing,Analyst,137824,1,2,2,17,0,Yes,2,2,18,6,5,Yes
+25,Finance,Analyst,149933,4,3,2,10,8,No,4,4,20,4,0,No
+42,IT,Sales Executive,50805,3,4,4,9,10,No,2,4,28,1,5,No
+49,Sales,Developer,116679,4,2,1,3,6,Yes,4,3,13,4,6,Yes
+23,HR,Developer,36874,1,3,3,4,2,Yes,4,2,5,6,3,No
+32,Finance,Consultant,118065,3,4,1,3,3,Yes,1,2,30,6,7,Yes
+46,IT,Consultant,111402,4,4,2,12,5,No,2,2,1,1,7,No
+36,Marketing,Manager,39079,1,2,4,12,2,Yes,2,2,22,0,6,Yes
+57,Sales,Sales Executive,74850,4,1,1,17,11,No,4,2,18,6,1,No
+42,IT,HR Executive,97779,2,1,1,1,6,No,2,1,5,4,5,Yes
+49,Marketing,Sales Executive,120408,1,2,2,15,5,No,4,2,31,1,5,Yes
+34,IT,Manager,34018,1,4,2,0,8,Yes,2,1,6,5,6,Yes
+48,Finance,Consultant,145606,1,2,1,18,11,Yes,1,2,27,6,5,Yes
+25,Finance,Sales Executive,74500,3,3,2,8,4,No,2,4,25,3,1,Yes
+50,Finance,Sales Executive,145062,3,1,2,2,3,No,1,4,29,5,7,Yes
+25,Sales,Consultant,37100,3,3,2,6,2,No,3,1,28,2,3,No
+32,Finance,Manager,82021,2,2,2,9,9,No,2,2,16,6,8,Yes
+36,Marketing,Consultant,139995,2,2,2,0,0,Yes,2,4,12,1,7,Yes
+46,IT,Developer,44800,1,4,4,9,2,Yes,2,4,20,5,2,Yes
+46,HR,HR Executive,88400,2,4,2,8,2,No,1,2,18,4,2,Yes
+41,Marketing,Consultant,117446,4,4,3,14,6,No,2,2,34,4,7,No
+59,Marketing,Manager,54437,1,3,1,14,6,No,2,4,23,6,1,Yes
+56,Finance,Analyst,128124,1,4,4,2,11,Yes,4,2,27,0,8,Yes
+53,Sales,Developer,101537,4,2,4,4,0,No,3,3,17,3,3,No
+50,IT,Analyst,71675,1,4,2,8,2,Yes,1,2,21,6,5,Yes
+57,Sales,Consultant,44942,2,1,1,8,7,No,4,4,31,1,2,No
+43,IT,Developer,45862,3,4,3,6,8,Yes,1,4,3,5,2,No
+30,IT,HR Executive,36669,4,3,2,11,6,Yes,4,1,17,3,2,Yes
+25,Sales,Consultant,146219,2,1,1,8,6,No,3,3,26,0,9,Yes
+56,Marketing,HR Executive,78772,4,1,2,5,11,Yes,4,4,23,6,1,No
+54,IT,Sales Executive,40916,4,1,2,1,10,Yes,1,3,6,2,7,Yes
+51,Sales,Analyst,35878,1,3,2,8,7,Yes,2,2,28,3,8,Yes
+30,IT,Developer,27985,1,2,2,16,5,Yes,2,4,8,0,7,Yes
+39,HR,HR Executive,122905,2,4,2,0,10,No,3,1,8,6,9,Yes
+52,Marketing,Manager,98648,4,1,2,18,2,No,1,4,19,6,2,Yes
+21,Finance,HR Executive,66235,1,1,2,5,0,No,1,1,38,1,6,Yes
+25,IT,Manager,43931,1,1,3,4,6,No,1,3,29,6,9,Yes
+24,HR,Consultant,117876,4,2,4,1,0,No,3,1,23,2,1,No
+36,Finance,Developer,25336,2,2,3,8,0,Yes,2,2,32,6,3,Yes
+44,Finance,HR Executive,67933,2,3,2,13,8,Yes,4,2,10,4,5,Yes
+36,IT,HR Executive,109899,4,2,2,3,9,Yes,3,2,27,0,4,Yes
+22,Sales,Developer,70536,2,4,3,3,6,Yes,4,4,1,4,8,Yes
+48,IT,HR Executive,94504,1,3,3,14,10,No,2,2,39,6,9,Yes
+52,HR,Manager,124214,4,3,4,7,3,No,3,2,29,2,3,No
+47,Finance,HR Executive,76148,1,4,3,3,5,Yes,2,4,3,0,4,No
+40,IT,Analyst,138936,3,4,4,15,0,No,4,3,37,0,3,No
+44,Sales,Consultant,41279,3,4,2,3,6,Yes,1,2,31,6,7,Yes
+32,IT,Sales Executive,93665,2,3,1,15,11,Yes,1,2,11,2,7,Yes
+55,Marketing,Manager,128751,3,3,1,11,5,No,4,4,22,1,2,No
+53,Sales,Analyst,129433,1,3,1,15,3,No,1,3,18,0,0,No
+53,HR,Consultant,96386,3,4,1,18,6,No,4,3,35,2,5,No
+57,Finance,Developer,111124,1,4,2,7,2,No,3,3,6,3,1,No
+32,IT,Manager,130750,2,1,1,5,0,No,3,4,3,4,1,No
+23,Sales,Sales Executive,102485,2,2,3,9,3,No,3,1,5,0,2,No
+21,Marketing,Consultant,99055,1,1,3,4,2,No,1,1,9,3,7,Yes
+53,Sales,Sales Executive,116911,3,4,1,17,0,Yes,2,2,28,0,2,Yes
+30,Marketing,Developer,123618,2,3,3,9,1,No,1,2,19,1,6,Yes
+49,HR,Developer,102273,4,4,4,9,10,Yes,1,2,28,6,9,No
+33,Finance,Manager,91670,2,2,2,6,4,Yes,2,1,27,2,9,Yes
+32,HR,HR Executive,101474,3,1,1,17,7,No,2,4,13,0,8,No
+51,IT,Developer,79028,4,1,1,0,0,Yes,2,2,38,2,7,Yes
+22,Sales,Consultant,115022,3,3,2,6,3,No,2,4,21,5,0,No
+55,Marketing,HR Executive,138892,1,1,3,0,3,Yes,1,2,27,0,6,Yes
+43,Marketing,Analyst,116632,4,1,2,14,4,Yes,4,4,6,1,6,No
+37,Sales,Sales Executive,131651,3,4,2,3,6,Yes,3,4,38,1,7,Yes
+46,Sales,HR Executive,96128,4,1,3,19,11,No,4,1,11,6,9,Yes
+28,IT,Sales Executive,43108,3,1,2,9,7,Yes,1,4,17,6,4,No
+49,HR,HR Executive,77495,4,1,3,8,5,Yes,2,3,39,3,9,Yes
+46,Marketing,Analyst,107806,3,3,3,1,0,Yes,3,1,7,1,8,Yes
+30,IT,Developer,118185,1,3,2,13,6,No,3,2,30,2,8,Yes
+46,HR,Analyst,101533,4,4,4,15,2,Yes,4,1,21,5,7,No
+54,IT,Developer,124025,4,1,3,0,5,No,1,3,1,1,5,Yes
+27,Marketing,Developer,81830,4,3,2,1,7,Yes,1,3,25,0,5,Yes
+24,Sales,Sales Executive,99640,4,3,3,6,6,Yes,1,4,32,1,0,No
+31,Sales,Consultant,77509,1,4,4,9,9,Yes,3,3,8,5,5,Yes
+49,HR,Analyst,91406,4,2,4,19,5,No,4,3,5,2,3,No
+56,Finance,HR Executive,119220,2,1,1,0,8,Yes,3,3,30,0,3,Yes
+45,HR,Analyst,64519,1,3,3,12,8,Yes,3,3,8,3,1,No
+41,Finance,Sales Executive,74649,2,4,3,0,0,Yes,2,2,19,3,3,Yes
+56,IT,Developer,59524,4,4,2,4,0,Yes,4,2,30,3,4,Yes
+30,IT,Sales Executive,121493,3,4,3,15,0,No,2,1,15,6,4,No
+57,Marketing,Manager,58885,2,3,1,14,7,Yes,1,4,36,0,4,No
+29,Finance,Manager,69369,4,1,4,16,11,Yes,3,2,27,3,3,Yes
+44,Marketing,HR Executive,126132,2,2,4,15,11,Yes,4,3,13,6,0,Yes
+55,Sales,Sales Executive,120402,4,1,1,12,9,Yes,1,4,14,1,9,Yes
+55,Finance,HR Executive,55676,4,4,3,10,6,No,4,2,37,0,7,No
+56,HR,HR Executive,89093,4,4,3,16,2,Yes,3,1,30,0,2,Yes
+38,Sales,Manager,72764,3,2,1,16,1,Yes,4,3,39,0,1,Yes
+59,Sales,HR Executive,75799,2,1,2,1,3,No,1,4,13,4,8,Yes
+52,HR,Manager,104414,1,4,4,12,2,Yes,2,2,16,6,6,Yes
+44,Sales,Developer,130296,1,4,1,13,6,Yes,3,4,7,2,8,No
+43,Finance,Sales Executive,118095,1,1,1,10,9,Yes,2,2,27,4,1,Yes
+52,Marketing,HR Executive,137082,1,4,3,9,7,No,3,1,35,4,8,Yes
+57,Sales,Manager,97307,4,1,4,2,5,Yes,1,3,15,4,9,Yes
+32,Finance,Analyst,107062,2,4,3,16,2,No,3,1,28,2,8,Yes
+33,IT,HR Executive,120432,2,1,1,14,5,No,2,3,35,4,8,Yes
+43,Finance,Consultant,56923,3,2,2,8,1,No,3,3,7,3,9,No
+45,Marketing,Developer,142449,2,4,4,9,11,No,1,4,20,0,9,No
+55,Finance,Developer,126739,2,2,1,7,6,No,3,2,32,0,3,Yes
+50,HR,Analyst,129926,2,4,1,12,10,No,2,1,38,6,9,Yes
+37,Marketing,Manager,103388,3,4,2,17,9,No,1,1,32,1,2,Yes
+40,IT,HR Executive,72574,1,3,1,4,6,Yes,2,1,26,5,5,Yes
+45,HR,Manager,68391,2,1,1,5,3,Yes,3,4,39,3,2,Yes
+42,Finance,Developer,146757,3,2,4,16,7,No,4,4,20,2,8,No
+33,Marketing,Manager,78664,3,2,4,10,3,No,2,4,18,5,2,No
+39,IT,Developer,92384,4,2,4,19,6,No,3,3,15,0,1,No
+56,HR,Manager,56027,3,1,3,15,3,No,4,1,22,4,7,No
+32,IT,Analyst,60464,1,3,2,8,11,No,4,3,22,6,5,No
+39,Finance,Sales Executive,59485,2,2,4,1,4,No,1,1,21,6,7,Yes
+32,IT,Analyst,44456,3,1,3,4,6,Yes,4,1,2,1,6,No
+29,Sales,Analyst,99795,1,4,3,0,9,Yes,2,2,18,1,2,Yes
+27,HR,Sales Executive,60554,3,2,2,3,2,No,2,1,23,0,7,No
+48,IT,Sales Executive,71922,3,2,2,3,9,No,4,4,13,3,9,No
+34,Finance,HR Executive,38409,3,3,1,2,4,No,3,4,9,6,0,Yes
+51,Finance,HR Executive,94327,3,2,3,8,10,Yes,2,4,7,5,0,No
+39,IT,Analyst,116400,3,2,4,11,2,No,2,2,1,1,9,No
+36,Finance,Analyst,61639,1,4,2,9,4,Yes,1,2,2,0,7,Yes
+25,Marketing,Developer,125110,2,1,3,1,2,Yes,3,3,4,3,8,Yes
+55,Marketing,Developer,88627,2,1,4,10,10,Yes,4,1,14,0,9,No
+32,Marketing,HR Executive,108424,2,3,3,9,9,No,3,1,32,0,5,Yes
+45,Sales,Consultant,44692,2,4,2,5,10,No,1,4,36,3,4,Yes
+41,IT,Consultant,114037,1,1,1,17,6,Yes,1,4,2,3,1,Yes
+56,Sales,HR Executive,103840,4,4,3,1,0,Yes,3,4,14,3,8,Yes
+43,Finance,Developer,79200,4,1,4,1,8,Yes,1,4,20,0,5,Yes
+36,Sales,Developer,118063,1,4,2,9,8,Yes,1,4,25,1,7,Yes
+59,Finance,Consultant,82415,1,3,1,15,4,No,1,4,8,2,8,Yes
+59,Finance,Manager,43074,3,2,4,11,8,Yes,3,1,28,2,8,Yes
+34,HR,Manager,40549,3,3,4,0,9,No,1,2,21,0,7,Yes
+51,Marketing,Developer,54963,3,1,4,7,5,Yes,4,4,23,0,9,Yes
+25,Finance,Manager,116456,2,3,3,15,4,No,4,1,32,1,7,No
+55,HR,Sales Executive,121362,3,2,2,17,2,Yes,2,4,8,3,2,Yes
+43,Marketing,HR Executive,126607,4,3,4,12,10,No,4,3,31,0,2,No
+49,Finance,HR Executive,77265,2,1,3,14,10,No,2,3,37,6,1,Yes
+31,Finance,Developer,41061,3,1,2,11,7,No,3,1,16,4,0,No
+38,Sales,Analyst,83226,2,3,2,7,3,Yes,1,2,27,3,3,Yes
+32,Sales,Consultant,53810,4,2,3,9,9,No,4,3,18,6,1,Yes
+29,Marketing,Developer,85006,3,3,3,13,2,Yes,2,3,35,0,1,No
+30,Finance,Manager,147538,4,2,4,4,5,No,3,2,15,4,4,No
+37,IT,Consultant,138502,4,4,2,17,7,No,2,3,27,6,3,No
+58,Sales,Analyst,47800,4,2,1,18,8,Yes,1,4,17,5,0,Yes
+27,Marketing,Manager,141192,3,4,3,14,5,No,4,2,2,1,8,No
+33,Finance,Sales Executive,133959,1,3,2,5,4,No,3,3,31,4,3,Yes
+29,Finance,Manager,132228,3,2,2,10,11,Yes,2,2,37,0,4,Yes
+47,IT,Sales Executive,100476,4,4,4,10,10,No,3,4,34,2,6,No
+22,Marketing,Consultant,94460,3,4,1,19,1,No,2,3,34,6,1,Yes
+25,Finance,Sales Executive,82767,4,4,4,19,1,No,2,1,3,0,7,No
+49,Sales,Consultant,53054,1,1,1,17,8,No,1,3,17,2,1,Yes
+57,IT,Consultant,100319,2,3,1,17,1,Yes,1,3,14,1,9,Yes
+58,Marketing,Consultant,127789,1,4,3,9,1,No,2,4,14,1,4,Yes
+39,IT,Consultant,70397,1,2,2,1,2,No,4,1,38,3,1,Yes
+28,Sales,Consultant,38233,2,4,2,8,2,No,3,1,35,6,1,Yes
+21,Marketing,Manager,136205,3,1,2,13,3,No,3,1,1,3,3,No
+42,IT,Consultant,115020,2,3,1,18,6,No,1,4,29,2,3,Yes
+37,HR,Manager,50068,3,1,2,9,8,No,4,4,4,2,7,No
+27,Sales,Consultant,90727,3,1,3,3,1,No,2,4,33,1,5,No
+45,Sales,Sales Executive,115610,4,1,1,5,3,No,1,4,17,4,9,Yes
+24,Sales,Consultant,95453,4,2,1,13,8,Yes,2,4,28,2,7,Yes
+56,HR,Analyst,129135,2,3,1,3,1,Yes,2,1,26,2,6,Yes
+26,HR,Consultant,50832,1,3,1,14,9,Yes,1,2,8,6,9,Yes
+51,Finance,Consultant,133464,2,2,3,15,10,Yes,4,4,34,4,3,Yes
+39,IT,Sales Executive,111242,3,3,2,6,0,No,3,2,18,3,1,No
+59,Finance,HR Executive,38682,4,1,3,16,9,No,1,3,31,3,8,Yes
+47,IT,Sales Executive,117298,2,3,2,18,7,Yes,4,3,27,2,1,Yes
+30,HR,Analyst,48383,2,2,3,18,8,Yes,2,4,16,6,0,No
+46,HR,HR Executive,83160,4,1,4,16,6,Yes,1,3,10,3,7,Yes
+39,Finance,Developer,118332,4,2,4,5,7,No,3,2,12,3,9,No
+59,Marketing,Developer,48666,4,4,4,10,3,No,3,3,22,5,8,No
+23,Finance,Analyst,83817,3,1,4,15,3,Yes,2,3,16,6,0,Yes
+33,IT,Sales Executive,116198,4,1,1,7,1,Yes,1,2,12,3,6,Yes
+48,Finance,Manager,135695,1,3,1,10,7,Yes,3,3,11,1,1,Yes
+40,Sales,Analyst,59642,2,1,3,6,10,Yes,1,4,20,0,5,Yes
+48,IT,HR Executive,66830,4,2,3,18,1,Yes,3,2,1,2,4,No
+28,IT,HR Executive,128067,4,3,4,9,8,No,2,2,27,2,0,Yes
+59,Marketing,Consultant,35234,3,4,2,8,3,Yes,2,1,3,1,1,No
+21,HR,Developer,82616,3,2,4,3,0,No,1,1,12,0,1,No
+23,IT,HR Executive,34221,2,4,3,14,3,Yes,4,2,30,0,9,Yes
+33,HR,Analyst,36410,1,4,4,12,2,Yes,4,2,9,1,9,Yes
+48,Finance,HR Executive,105055,2,4,3,1,11,No,2,1,37,4,5,Yes
+45,Sales,Analyst,86413,4,1,4,1,5,Yes,3,4,1,4,0,Yes
+53,Marketing,Manager,26051,1,2,2,15,6,No,4,3,4,0,3,No
+58,HR,Consultant,135529,1,2,4,8,7,No,2,3,15,4,9,Yes
+26,IT,Developer,100301,1,1,2,12,1,Yes,3,3,27,4,4,Yes
+52,HR,HR Executive,101918,1,3,2,2,5,Yes,3,2,8,4,1,Yes
+41,IT,Analyst,103116,2,4,3,8,5,No,4,4,23,0,1,Yes
+36,HR,Sales Executive,147226,3,2,2,12,9,No,2,1,15,4,6,Yes
+41,IT,Developer,81563,3,1,1,1,11,Yes,3,4,27,2,6,Yes
+31,Finance,Manager,122859,4,4,1,7,4,No,3,4,31,5,5,No
+57,IT,Analyst,69757,3,3,1,8,9,Yes,1,3,39,0,0,Yes
+56,IT,Consultant,146008,3,3,3,15,9,No,1,1,8,1,2,Yes
+55,Sales,Consultant,102475,3,4,1,1,6,Yes,4,4,30,4,8,Yes
+39,IT,Manager,76257,3,3,3,5,2,No,1,1,18,3,9,No
+40,Sales,Manager,120500,4,2,3,7,3,No,2,2,4,0,0,Yes
+38,Marketing,Consultant,25307,2,2,1,4,9,Yes,4,3,22,6,1,Yes
+34,Sales,HR Executive,81889,1,2,2,8,8,No,4,1,3,1,7,Yes
+35,Finance,HR Executive,93895,3,3,4,0,3,No,1,2,15,5,6,Yes
+51,Sales,Analyst,120184,2,2,3,8,2,No,3,2,35,2,8,Yes
+21,Marketing,Sales Executive,60944,3,1,1,9,1,No,2,2,38,6,9,Yes
+23,Finance,Analyst,124555,3,2,3,3,4,No,2,4,33,1,3,No
+36,HR,Sales Executive,63134,1,2,2,2,3,No,2,4,14,4,3,Yes
+43,HR,Manager,52323,1,3,2,9,7,No,4,3,1,3,6,Yes
+31,Sales,Developer,141205,1,2,1,14,6,Yes,2,3,26,4,0,Yes
+32,Sales,Analyst,96762,3,4,3,10,5,No,3,2,8,1,9,No
+30,Marketing,Analyst,112225,3,1,4,13,10,No,3,3,16,0,8,No
+52,Marketing,Sales Executive,121507,3,3,4,5,11,Yes,1,4,38,6,1,Yes
+36,IT,Manager,50954,1,1,3,11,1,No,2,3,10,3,0,No
+28,Marketing,Manager,80021,4,4,3,12,2,No,4,1,37,6,6,Yes
+58,IT,Sales Executive,114959,2,3,3,16,9,Yes,1,4,26,6,5,Yes
+32,Finance,Manager,120927,4,3,1,15,8,No,3,2,28,3,2,No
+44,Sales,Consultant,104866,3,2,2,2,8,No,2,2,12,1,0,Yes
+48,Finance,HR Executive,95427,3,1,4,1,4,Yes,3,3,20,5,4,No
+28,Marketing,Consultant,29992,4,4,1,10,2,Yes,1,4,14,5,9,Yes
+48,Finance,Developer,26961,3,4,3,8,1,No,3,2,35,4,3,No
+56,Finance,Analyst,37497,2,3,3,2,7,No,2,2,29,1,4,Yes
+46,Finance,Developer,142551,3,2,2,17,5,Yes,2,4,12,3,0,Yes
+28,Marketing,Analyst,57551,2,3,3,19,9,No,1,4,18,1,0,No
+48,Finance,HR Executive,101384,4,3,1,14,10,Yes,2,2,2,3,4,Yes
+48,IT,Manager,80755,4,3,1,13,11,Yes,3,3,2,6,5,Yes
+57,Marketing,Consultant,38255,3,3,2,1,6,Yes,3,3,17,4,4,Yes
+56,Finance,Sales Executive,29567,2,4,1,16,0,No,4,3,10,0,1,Yes
+47,Marketing,Consultant,73847,3,4,4,7,0,Yes,4,1,18,6,8,Yes
+37,HR,HR Executive,129817,1,3,1,9,9,Yes,4,4,22,0,4,No
+29,IT,Developer,73003,1,3,1,17,1,Yes,3,2,19,1,4,No
+53,Finance,Sales Executive,45389,1,2,1,18,9,No,3,1,1,3,9,No
+40,HR,Manager,69523,1,3,4,7,2,No,1,3,24,0,8,Yes
+33,HR,HR Executive,148802,3,4,3,7,11,No,4,1,36,6,2,No
+48,Marketing,Sales Executive,86576,1,1,1,2,0,Yes,3,2,25,3,4,Yes
+49,HR,HR Executive,68919,2,4,2,2,4,No,1,2,36,4,4,Yes
+33,IT,HR Executive,107103,4,2,4,11,2,No,3,4,31,6,1,No
+55,IT,Manager,147443,4,4,2,16,0,Yes,1,3,31,1,3,Yes
+26,Sales,Analyst,28358,1,1,1,3,7,Yes,4,3,2,3,1,Yes
+38,IT,Sales Executive,113535,1,3,2,16,11,No,4,1,19,1,4,Yes
+25,HR,Manager,132894,1,1,1,13,10,No,4,3,12,3,9,No
+45,IT,HR Executive,146485,3,3,4,18,5,Yes,3,1,10,6,1,No
+22,Marketing,Manager,101524,4,3,2,8,8,No,3,2,31,5,9,No
+30,Sales,Analyst,148416,1,4,2,11,2,Yes,1,2,22,5,8,Yes
+50,HR,Consultant,130982,2,4,1,4,8,Yes,2,2,23,3,9,Yes
+25,Sales,Sales Executive,122057,1,4,1,10,8,No,2,2,23,4,5,Yes
+53,HR,Analyst,30698,4,2,3,19,11,No,4,2,15,1,7,No
+21,Marketing,Developer,91809,1,4,1,2,11,No,2,1,26,2,8,Yes
+38,Sales,Sales Executive,118079,4,2,1,14,0,No,4,2,3,3,7,No
+52,Finance,Analyst,80805,1,4,3,13,2,Yes,1,1,23,3,4,Yes
+31,HR,HR Executive,56349,2,3,1,10,5,No,2,2,20,5,4,Yes
+41,Finance,Sales Executive,101777,1,2,1,19,7,No,2,1,39,0,5,Yes
+46,Sales,Sales Executive,75248,2,1,3,7,3,No,4,1,8,6,0,No
+45,Finance,Manager,100033,2,2,4,3,4,Yes,1,1,18,5,7,Yes
+42,Finance,HR Executive,132411,1,2,4,11,8,No,2,3,6,1,1,Yes
+47,Sales,Developer,123239,2,1,1,7,5,No,2,1,27,5,5,Yes
+33,Marketing,Consultant,69041,3,2,1,5,11,Yes,2,1,36,2,8,Yes
+53,Finance,Analyst,56954,1,3,3,14,6,Yes,1,2,15,4,2,No
+54,Finance,Manager,33002,1,4,3,11,6,Yes,1,1,37,6,1,Yes
+55,Marketing,Analyst,94783,2,1,4,15,3,Yes,2,1,5,2,9,Yes
+21,Finance,Developer,132524,2,4,2,15,3,Yes,4,4,39,4,4,Yes
+41,Finance,Developer,112234,1,3,1,19,3,No,4,3,9,2,8,Yes
+26,Finance,Sales Executive,149857,3,1,2,19,10,Yes,2,4,7,6,5,No
+48,IT,Developer,44738,2,4,2,3,4,Yes,1,2,20,5,7,No
+37,Marketing,Analyst,35703,2,4,3,10,4,Yes,2,3,10,2,7,Yes
+25,Finance,HR Executive,138776,4,3,1,12,7,Yes,1,3,26,5,6,Yes
+51,Marketing,HR Executive,74422,3,4,1,8,8,Yes,2,4,4,6,4,No
+25,HR,Sales Executive,108106,3,3,3,3,1,Yes,1,3,38,5,1,No
+58,HR,Consultant,86899,1,2,2,11,10,Yes,3,4,24,1,9,Yes
+23,Finance,Analyst,37392,3,3,3,8,6,Yes,4,1,14,5,9,Yes
+43,Marketing,Analyst,69724,1,2,4,12,0,No,3,4,1,0,4,No
+57,Marketing,Developer,57299,4,1,1,15,0,No,4,3,17,2,6,No
+57,Marketing,Analyst,40641,3,4,4,5,3,No,1,3,24,6,6,No
+30,IT,Manager,104534,2,3,3,9,9,Yes,3,2,27,3,1,Yes
+30,HR,Consultant,31305,4,3,1,12,6,Yes,4,2,7,3,6,Yes
+39,Marketing,Developer,123262,1,4,4,6,1,Yes,2,2,9,3,5,Yes
+37,Marketing,Manager,43782,4,4,4,18,10,No,1,2,35,6,6,No
+41,IT,Sales Executive,103257,1,1,2,18,1,Yes,1,3,12,0,7,Yes
+34,IT,HR Executive,130299,4,1,1,16,0,Yes,2,2,21,5,3,Yes
+29,Marketing,Sales Executive,102963,1,3,4,12,9,Yes,2,4,3,2,0,No
+21,Sales,HR Executive,137086,3,1,4,12,1,No,4,1,15,4,7,No
+33,Marketing,Sales Executive,146987,2,2,2,1,6,No,1,3,21,4,7,Yes
+24,Marketing,Analyst,45566,1,1,4,9,8,Yes,4,2,10,6,2,Yes
+21,IT,Manager,149591,4,1,4,12,5,No,2,3,33,1,2,No
+52,IT,HR Executive,92766,1,3,4,8,9,Yes,1,2,6,0,4,Yes
+54,Marketing,Developer,31511,1,2,2,0,1,Yes,2,3,2,2,2,Yes
+48,Marketing,Manager,139816,1,1,4,13,11,No,4,2,29,5,4,Yes
+51,Marketing,Developer,132765,4,2,4,15,9,No,4,1,33,3,7,No
+28,IT,Manager,143360,2,2,1,19,9,No,4,2,4,0,0,No
+59,Marketing,Manager,51177,3,2,1,14,8,No,1,4,4,0,1,No
+46,Marketing,Sales Executive,29765,2,4,2,0,6,Yes,2,3,29,2,1,Yes
+54,Finance,HR Executive,45354,1,4,3,16,10,Yes,2,3,37,6,3,Yes
+23,Sales,HR Executive,48929,4,4,1,12,0,No,4,4,20,5,8,No
+32,HR,Manager,53820,2,4,2,14,11,No,4,4,23,6,1,No
+21,Sales,Analyst,136576,1,3,4,15,8,Yes,4,1,18,6,8,Yes
+25,Finance,Analyst,54523,3,1,4,15,1,Yes,4,3,25,1,6,Yes
+50,HR,Developer,96088,3,4,2,1,3,Yes,3,1,1,6,9,No
+50,Marketing,Developer,91163,3,3,4,16,8,Yes,3,3,15,5,7,No
+37,Finance,Sales Executive,102525,1,1,4,10,3,No,3,3,34,1,0,Yes
+43,Marketing,Manager,38780,4,4,3,7,2,No,4,1,20,1,4,No
+35,IT,Developer,31589,2,1,4,19,0,No,4,3,37,3,8,No
+57,Finance,Developer,59812,3,4,1,2,6,Yes,2,3,27,3,3,Yes
+41,IT,Consultant,118664,1,3,4,11,5,Yes,1,1,22,2,1,Yes
+34,Finance,Manager,70939,1,2,2,19,9,No,2,2,5,5,5,Yes
+22,Finance,Sales Executive,76493,2,2,3,15,3,No,3,1,34,6,1,Yes
+31,IT,Developer,129188,3,1,4,13,5,No,2,3,39,1,2,Yes
+59,HR,Sales Executive,118326,1,3,2,15,5,Yes,4,4,3,2,7,Yes
+58,Sales,HR Executive,65953,2,2,1,16,3,No,3,2,17,1,2,No
+54,Marketing,Sales Executive,90785,4,4,4,10,5,Yes,3,4,24,0,1,No
+58,Finance,Analyst,44309,4,2,3,16,9,No,1,2,24,4,5,No
+54,Marketing,Analyst,79195,4,1,4,18,10,No,1,4,3,4,2,Yes
+38,IT,Sales Executive,140662,3,1,2,0,7,No,3,2,7,1,0,No
+50,Marketing,Analyst,50901,2,3,3,11,2,Yes,3,1,25,2,2,No
+35,IT,HR Executive,48576,2,1,4,14,3,Yes,2,2,3,3,5,Yes
+47,Marketing,Manager,56508,1,2,1,17,9,Yes,3,2,15,5,2,Yes
+54,Sales,Analyst,99711,1,2,3,13,11,Yes,4,2,29,1,8,Yes
+58,Sales,Analyst,50464,1,2,1,0,0,Yes,2,3,29,1,6,Yes
+53,Sales,Sales Executive,85281,2,2,2,12,3,Yes,4,4,10,5,4,Yes
+44,Sales,HR Executive,41260,1,3,4,14,10,No,4,1,32,6,1,No
+35,Sales,Manager,149997,2,4,1,6,9,Yes,4,4,23,3,8,No
+50,Sales,Sales Executive,60440,2,4,2,14,9,No,3,4,39,1,4,Yes
+37,IT,Sales Executive,120082,4,3,4,19,11,Yes,1,1,9,0,6,Yes
+25,Finance,Consultant,130583,1,1,2,9,8,No,1,3,37,3,8,Yes
+49,Marketing,HR Executive,81683,4,4,1,13,7,No,4,2,14,0,3,No
+24,Sales,Manager,149206,3,1,2,5,10,Yes,3,3,4,4,8,Yes
+30,IT,HR Executive,66430,3,4,3,13,3,No,2,3,20,5,0,No
+37,IT,Manager,26987,3,1,4,11,11,Yes,4,2,28,3,5,Yes
+30,IT,HR Executive,139778,2,3,2,10,6,Yes,2,4,14,6,1,Yes
+37,Finance,Sales Executive,50105,2,2,1,19,9,Yes,2,2,34,3,7,Yes
+40,Marketing,Sales Executive,103484,2,1,4,18,2,Yes,3,1,13,2,4,Yes
+44,Finance,Developer,143747,1,2,3,1,8,No,3,2,31,2,2,Yes
+25,HR,Analyst,38026,4,1,4,19,9,Yes,1,4,33,5,1,Yes
+54,IT,Consultant,93309,2,1,3,0,3,No,1,3,39,6,7,Yes
+26,HR,HR Executive,70927,4,1,4,7,1,No,3,3,28,3,6,No
+22,Sales,Consultant,100414,4,1,2,13,9,No,4,2,25,4,8,Yes
+33,Sales,Developer,82535,4,1,2,8,4,Yes,1,1,32,6,7,Yes
+31,Finance,Analyst,67946,1,2,1,1,1,No,2,4,9,1,3,Yes
+43,Marketing,HR Executive,81561,1,1,3,4,9,Yes,4,3,28,5,1,Yes
+36,HR,Manager,35377,3,2,1,7,5,No,2,2,31,6,1,Yes
+51,Marketing,Analyst,78592,3,3,2,15,10,Yes,3,1,17,5,1,No
+31,Finance,Sales Executive,32347,4,4,3,15,9,Yes,2,1,23,6,5,No
+36,Sales,Developer,58776,3,1,1,12,0,Yes,4,3,13,2,6,No
+28,Marketing,Analyst,28783,4,4,1,19,5,Yes,3,3,10,4,5,No
+24,Marketing,Analyst,80798,1,2,1,14,3,No,4,4,16,5,1,No
+24,Sales,Sales Executive,29298,1,3,1,0,2,No,2,1,6,4,3,Yes
+45,HR,HR Executive,95204,1,3,1,2,1,Yes,4,4,11,5,2,Yes
+23,Sales,Manager,111207,2,3,3,5,6,No,3,1,3,2,3,No
+52,Marketing,Sales Executive,125356,4,4,1,13,8,Yes,2,1,28,1,4,Yes
+23,HR,Manager,80161,1,2,3,3,11,Yes,2,2,15,2,6,Yes
+47,HR,HR Executive,85652,4,1,1,17,2,No,1,3,13,5,8,Yes
+49,Sales,Analyst,59484,3,1,2,14,5,Yes,1,1,17,4,1,Yes
+52,Marketing,Manager,123614,3,2,2,8,8,Yes,4,4,7,0,7,No
+39,Finance,Developer,137695,1,4,1,17,1,Yes,1,3,28,2,2,Yes
+41,Marketing,Developer,45922,4,1,4,2,6,Yes,1,4,38,4,8,Yes
+25,IT,Sales Executive,59028,1,2,2,9,4,Yes,1,3,13,6,9,Yes
+38,Finance,HR Executive,136461,3,1,3,16,4,No,1,3,17,6,3,No
+48,HR,Sales Executive,45316,1,3,1,6,10,No,3,1,15,2,2,Yes
+42,Finance,Sales Executive,101996,4,1,3,14,6,No,3,2,36,5,9,No
+41,HR,Consultant,41968,3,4,4,0,8,Yes,1,1,28,6,5,Yes
+26,HR,Sales Executive,55266,2,2,1,10,3,Yes,4,3,15,4,9,Yes
+21,Finance,Consultant,120745,3,4,2,16,8,Yes,3,1,11,1,8,No
+25,HR,Developer,49000,2,2,3,4,10,Yes,1,1,31,4,6,Yes
+32,HR,Developer,148239,1,3,2,6,9,Yes,3,3,4,6,3,Yes
+46,IT,Sales Executive,39011,1,2,2,18,8,Yes,2,3,35,6,2,Yes
+54,Marketing,Developer,27866,4,1,1,14,3,No,3,1,34,3,9,No
+34,Marketing,HR Executive,137669,2,1,3,2,2,Yes,3,1,27,0,3,Yes
+46,IT,Consultant,30898,1,3,4,14,1,No,4,1,10,5,2,Yes
+47,Finance,Consultant,43395,2,2,2,4,8,Yes,3,4,30,4,2,Yes
+29,Sales,Sales Executive,64019,1,3,1,11,11,No,4,1,20,6,8,No
+46,Sales,Developer,128243,3,1,1,19,1,Yes,2,4,29,5,3,Yes
+42,Sales,Manager,29006,1,4,4,4,5,No,1,2,29,2,8,Yes
+50,IT,Consultant,59393,4,3,1,2,4,No,4,4,23,2,9,No
+37,IT,Sales Executive,35956,3,4,2,8,4,Yes,3,1,21,4,4,No
+46,HR,Sales Executive,75042,4,4,1,8,3,Yes,3,2,10,3,6,Yes
+56,Sales,HR Executive,121199,3,2,3,6,5,No,4,4,12,6,4,No
+21,Finance,Analyst,31078,2,3,3,1,4,Yes,2,4,30,4,0,Yes
+28,Finance,Analyst,54631,4,4,2,15,10,Yes,1,3,33,1,1,No
+55,Sales,Consultant,120676,1,4,3,8,3,Yes,3,2,18,3,4,No
+35,Sales,HR Executive,146724,2,2,4,12,8,No,2,3,14,6,5,Yes
+42,Sales,HR Executive,87901,1,2,1,18,5,Yes,1,2,22,6,6,Yes
+34,IT,HR Executive,132227,3,1,2,19,10,No,1,4,21,5,1,No
+46,IT,Consultant,94497,3,4,4,16,9,No,3,3,1,4,9,No
+48,IT,Analyst,119813,1,1,1,5,9,Yes,4,1,15,6,8,Yes
+43,Marketing,HR Executive,142192,1,4,4,3,9,No,3,4,36,5,5,No
+34,Finance,Developer,66574,2,1,2,0,2,Yes,3,2,22,6,1,Yes
+44,Finance,Sales Executive,143494,1,2,2,17,9,Yes,3,2,32,0,1,Yes
+22,HR,Sales Executive,56417,4,3,4,18,5,No,2,3,33,3,2,No
+46,IT,Manager,113020,4,2,1,8,0,No,4,3,39,4,0,No
+34,Marketing,Manager,108639,1,1,3,12,4,No,2,2,23,0,8,Yes
+27,Marketing,Consultant,90006,4,1,3,7,9,No,3,4,2,4,9,No
+23,Finance,Consultant,119881,1,3,4,12,5,No,4,3,2,1,3,No
+43,IT,Sales Executive,136862,2,4,2,14,10,Yes,1,1,38,2,4,Yes
+38,HR,Developer,64454,4,1,1,10,7,No,4,2,29,5,6,No
+58,IT,Analyst,26587,4,1,1,11,10,Yes,3,1,3,4,0,Yes
+55,Sales,Analyst,146688,1,1,2,13,8,Yes,4,2,39,3,2,Yes
+35,IT,Consultant,133107,4,3,3,3,10,No,1,1,7,4,2,No
+45,Sales,Developer,140584,3,2,1,0,2,No,1,4,36,4,1,Yes
+57,Sales,Consultant,79710,2,1,4,3,1,No,4,2,29,4,7,No
+48,HR,Analyst,148157,2,3,3,18,3,No,1,4,37,6,4,No
+30,Finance,Consultant,111567,4,1,4,8,7,No,2,3,36,4,0,No
+59,IT,HR Executive,116748,4,4,3,9,10,Yes,4,2,23,6,1,No
+37,Sales,Consultant,100886,3,3,2,3,7,Yes,1,4,16,3,0,Yes
+59,IT,Sales Executive,43816,3,1,4,19,2,Yes,1,1,31,3,5,Yes
+42,Finance,Consultant,110824,4,3,4,8,3,No,4,4,34,4,8,No
+46,Finance,Sales Executive,54432,4,1,2,12,2,No,2,2,1,6,6,Yes
+45,Marketing,Developer,134758,3,2,4,11,9,Yes,4,4,18,2,4,No
+37,Finance,Analyst,73617,1,1,3,10,1,No,1,1,15,4,2,No
+33,HR,Manager,97373,3,3,1,11,3,No,4,1,17,5,7,No
+40,Sales,Manager,59217,1,4,1,17,5,No,1,1,10,5,9,Yes
+45,Marketing,Analyst,45884,2,4,2,11,10,Yes,3,3,20,3,3,Yes
+24,HR,Manager,30454,2,4,3,15,10,No,4,2,6,5,8,No
+30,IT,Consultant,99960,3,1,4,4,4,Yes,4,1,8,5,4,No
+23,Sales,Developer,127421,1,2,4,19,2,No,1,3,34,1,5,Yes
+38,Finance,Developer,132173,3,1,1,11,1,No,1,1,32,4,4,Yes
+56,Sales,Analyst,68618,3,4,4,10,8,Yes,1,4,4,4,9,Yes
+42,IT,Manager,108948,1,3,1,8,0,No,1,2,39,4,6,Yes
+54,Marketing,Consultant,87671,3,4,2,17,8,No,4,4,20,4,6,Yes
+28,Marketing,Developer,72111,2,3,4,2,0,No,1,3,24,0,0,Yes
+39,Marketing,Developer,64613,4,2,3,19,6,Yes,4,4,24,4,1,Yes
+57,Finance,HR Executive,110678,4,3,4,16,5,No,2,4,26,6,6,Yes
+26,HR,HR Executive,145592,3,1,1,13,6,No,4,1,25,3,7,Yes
+46,HR,Developer,127928,1,1,2,0,2,No,1,4,36,6,3,Yes
+54,Sales,Analyst,149917,1,1,1,16,2,No,1,1,7,3,5,Yes
+26,Finance,Sales Executive,84993,2,3,4,7,10,No,2,1,10,0,9,No
+57,Marketing,Sales Executive,33848,1,1,1,4,0,Yes,4,2,12,4,2,No
+53,Marketing,Consultant,139853,1,1,1,4,3,Yes,2,3,1,2,6,Yes
+42,IT,Developer,103672,2,1,2,8,11,No,4,3,25,6,2,Yes
+41,IT,Developer,144279,3,2,3,2,1,No,1,3,16,4,6,No
+26,Marketing,Developer,91125,4,3,4,18,9,Yes,4,1,5,3,7,Yes
+26,Marketing,Analyst,111444,2,3,2,8,7,No,1,3,19,6,2,Yes
+24,Finance,HR Executive,142509,3,4,3,17,2,No,1,1,4,1,1,No
+50,HR,Developer,86602,2,3,1,15,6,No,3,2,6,5,5,No
+31,IT,Developer,97045,3,2,3,0,6,No,3,3,26,1,3,No
+50,HR,Manager,130997,2,3,1,1,11,No,4,1,39,2,7,Yes
+51,Finance,Analyst,67222,3,2,1,13,8,No,1,3,39,4,1,No
+44,Marketing,Consultant,74223,2,2,2,13,5,No,2,3,9,0,3,Yes
+29,HR,Developer,135012,3,3,1,0,0,No,1,2,14,4,1,No
+23,Marketing,Manager,136246,2,4,2,15,7,Yes,2,4,9,2,1,Yes
+51,Marketing,Sales Executive,90333,4,1,3,14,0,Yes,4,3,15,2,1,No
+57,Sales,Consultant,77732,4,1,3,14,2,No,4,2,37,5,0,No
+56,HR,Developer,147650,1,3,1,11,10,No,2,3,20,2,3,Yes
+44,HR,Developer,74420,3,3,2,15,4,No,2,3,8,1,1,No
+51,Marketing,Manager,100504,2,2,1,13,7,No,1,3,32,5,8,Yes
+26,Finance,Analyst,27462,3,3,2,14,8,Yes,4,3,21,4,8,Yes
+22,Sales,Developer,34460,4,2,2,14,6,Yes,1,4,19,6,6,Yes
+40,Marketing,Sales Executive,124319,3,4,2,18,8,Yes,2,4,29,4,5,No
+48,IT,Developer,34275,2,3,3,7,10,Yes,3,3,31,0,2,Yes
+31,IT,Sales Executive,119213,3,1,2,1,2,No,3,3,6,2,6,Yes
+24,Sales,Consultant,38269,2,1,3,1,4,No,3,2,4,2,0,Yes
+35,Finance,Consultant,147672,4,3,2,9,9,No,2,2,29,3,8,Yes
+26,Marketing,HR Executive,90942,4,2,3,2,7,Yes,1,1,3,5,3,Yes
+50,HR,HR Executive,97920,4,1,4,16,11,No,4,4,1,3,5,No
+58,Sales,Sales Executive,145737,1,2,3,7,0,No,2,3,15,5,5,Yes
+22,Finance,Analyst,47553,4,3,3,3,7,Yes,3,4,21,1,2,Yes
+35,HR,Developer,49366,3,3,1,13,6,Yes,1,2,31,5,3,No
+31,IT,Developer,69036,1,1,2,9,0,Yes,4,4,7,4,9,Yes
+28,IT,HR Executive,42369,4,3,4,0,9,Yes,4,4,17,0,2,No
+46,HR,Sales Executive,36795,3,4,1,3,11,Yes,2,3,19,6,5,No
+25,Sales,Developer,95021,3,4,2,0,9,No,2,3,39,5,0,Yes
+26,IT,Developer,132205,3,1,4,16,11,No,4,2,3,5,7,No
+46,Marketing,Analyst,93154,2,4,4,16,5,Yes,4,3,30,5,7,Yes
+24,HR,Manager,55143,1,2,4,6,0,No,3,2,35,0,8,Yes
+39,HR,HR Executive,54425,3,1,2,19,1,No,4,2,29,2,5,No
+40,IT,HR Executive,113209,2,1,4,14,4,No,2,1,14,0,0,No
+53,Sales,Manager,100139,4,2,4,12,1,No,1,1,35,2,2,No
+40,Marketing,Developer,130232,3,4,1,1,9,Yes,3,1,28,6,0,Yes
+32,Sales,Analyst,30368,2,4,3,18,0,No,3,4,30,4,4,No
+21,Finance,Analyst,29621,3,4,2,12,5,No,4,1,26,0,2,No
+46,Finance,HR Executive,83829,1,1,3,10,7,No,1,3,7,2,1,No
+34,IT,Analyst,85294,1,1,1,14,7,Yes,3,3,39,4,2,Yes
+58,IT,Consultant,39719,4,4,3,9,7,No,2,1,31,4,8,Yes
+57,IT,Manager,54227,3,3,4,8,10,Yes,4,4,5,2,7,No
+31,Finance,Developer,134430,2,4,4,8,5,Yes,2,2,35,2,2,Yes
+56,Sales,Consultant,32566,4,2,2,19,10,Yes,4,4,14,1,1,No
+33,Sales,Manager,37306,3,1,2,0,2,Yes,3,4,36,4,4,Yes
+23,IT,Sales Executive,78822,4,2,2,16,0,No,4,2,27,2,0,No
+53,Marketing,HR Executive,49042,2,2,1,11,1,Yes,1,2,24,4,3,Yes
+26,Sales,Analyst,40086,4,1,2,9,4,Yes,2,2,29,0,7,No
+30,Finance,Sales Executive,42387,4,3,1,4,9,Yes,1,3,22,6,0,Yes
+25,HR,Analyst,52042,4,4,4,17,4,Yes,2,2,8,3,4,No
+43,HR,Consultant,114424,3,2,3,14,9,Yes,2,2,15,3,3,Yes
+30,HR,Developer,76618,2,1,4,5,0,No,4,4,5,5,5,No
+22,Marketing,Developer,117050,1,2,4,6,0,Yes,3,4,4,2,6,Yes
+33,IT,Developer,43323,3,4,4,16,8,No,3,1,11,2,8,No
+22,Finance,Analyst,43019,1,3,2,5,1,No,1,4,18,4,0,No
+40,Marketing,Sales Executive,100426,1,3,2,7,6,Yes,4,2,30,5,9,Yes
+21,Finance,Developer,65863,3,3,2,11,9,No,3,3,15,2,3,No
+57,Finance,Sales Executive,145953,3,1,3,13,3,No,2,4,6,4,5,Yes
+29,IT,Analyst,136023,2,1,2,11,6,No,2,4,16,2,9,Yes
+37,HR,Consultant,35283,2,3,1,9,7,Yes,4,2,9,4,6,Yes
+29,IT,Sales Executive,43279,4,4,4,19,4,Yes,1,4,34,2,6,Yes
+31,Marketing,Consultant,71999,1,4,3,14,11,Yes,4,4,27,1,7,No
+35,Marketing,Analyst,87780,2,1,3,6,11,Yes,1,2,13,6,9,Yes
+44,Marketing,Analyst,47908,4,3,3,8,0,Yes,4,4,36,4,7,Yes
+58,IT,HR Executive,86584,2,4,3,9,3,Yes,2,3,27,6,7,No
+55,Finance,Analyst,138002,3,4,3,9,9,Yes,4,1,9,1,7,No
+50,Finance,Analyst,75225,2,4,1,15,2,No,3,4,5,1,7,No
+51,Sales,Manager,62952,1,1,4,6,9,No,3,3,22,1,5,No
+25,Marketing,Developer,125706,2,3,3,4,11,Yes,4,4,31,1,8,Yes
+34,Finance,HR Executive,62663,1,2,4,2,4,No,1,1,3,0,2,Yes
+31,Sales,HR Executive,147019,3,3,2,17,9,Yes,1,2,30,6,5,Yes
+29,Finance,HR Executive,134708,1,3,3,10,9,Yes,2,1,21,5,4,No
+54,Marketing,Manager,86381,2,1,3,14,5,Yes,2,4,35,6,7,Yes
+32,HR,Consultant,72929,4,4,4,19,1,No,1,1,6,3,3,No
+55,Marketing,Analyst,34343,3,4,3,4,6,Yes,4,1,28,0,3,No
+55,IT,Developer,101173,2,1,3,11,2,Yes,2,2,32,2,9,Yes
+21,Finance,Sales Executive,125260,3,1,3,3,0,Yes,1,4,37,2,9,Yes
+42,Finance,Consultant,64791,3,1,1,14,9,Yes,1,1,25,5,4,Yes
+49,IT,Analyst,54134,2,1,1,8,2,No,4,1,32,3,5,Yes
+28,IT,Manager,137366,2,1,3,6,8,Yes,3,2,35,3,3,Yes
+31,HR,Analyst,72101,4,2,1,9,9,No,1,3,22,3,1,No
+57,Finance,Analyst,94443,3,3,2,12,10,No,2,4,24,1,1,No
+34,Finance,Manager,124111,3,3,3,7,10,Yes,4,3,39,0,2,Yes
+50,HR,HR Executive,82530,2,3,2,11,5,Yes,4,3,30,2,1,Yes
+55,Sales,HR Executive,71799,1,4,4,18,10,No,4,2,32,0,0,No
+41,HR,Developer,29827,2,2,2,0,5,No,3,2,31,0,7,Yes
+57,Marketing,Developer,121143,3,3,4,15,3,No,3,4,23,0,4,No
+25,Finance,HR Executive,87653,2,4,3,16,7,No,2,3,33,3,9,No
+39,IT,Consultant,38699,4,2,4,17,4,Yes,2,1,25,5,0,Yes
+34,Marketing,Sales Executive,127828,1,2,4,10,6,No,4,3,36,5,8,Yes
+46,Finance,Analyst,138497,2,4,2,17,8,No,2,2,24,3,7,Yes
+24,HR,Sales Executive,116419,4,2,2,6,4,No,1,1,31,2,3,Yes
+45,Marketing,Analyst,139527,3,4,2,17,10,No,3,1,39,2,7,Yes
+45,Finance,HR Executive,141972,2,3,3,7,4,Yes,4,2,13,2,9,Yes
+38,Sales,Developer,30313,3,4,3,5,3,Yes,4,1,10,5,6,No
+28,Sales,Consultant,38598,4,2,2,6,5,Yes,1,3,23,5,6,Yes
+59,IT,Developer,136362,3,3,3,9,1,No,1,2,18,0,0,No
+34,Finance,Sales Executive,140445,4,3,3,10,2,No,1,4,32,3,5,No
+52,Sales,Developer,53807,4,1,4,12,0,Yes,1,2,33,1,3,Yes
+58,HR,HR Executive,95423,4,1,4,8,1,Yes,4,4,36,0,9,Yes
+53,Finance,Consultant,94390,2,2,2,6,1,No,3,4,28,4,9,Yes
+43,HR,Sales Executive,70226,3,4,3,8,7,Yes,3,2,16,5,9,Yes
+35,HR,Consultant,84550,3,4,4,12,7,No,1,2,16,0,1,No
+53,Sales,Analyst,105072,1,2,1,2,1,No,2,4,18,3,9,Yes
+45,Finance,Developer,28558,1,3,3,2,5,No,4,4,8,4,6,Yes
+37,Marketing,Consultant,100308,1,2,1,0,4,No,3,1,16,6,8,Yes
+53,Sales,Manager,75113,1,2,2,19,2,No,1,2,11,0,4,No
+22,Sales,Developer,77999,3,3,3,1,4,No,2,2,6,3,7,No
+34,Finance,Analyst,80878,4,4,2,2,4,Yes,2,1,1,3,4,Yes
+59,Finance,Consultant,61343,4,2,2,14,4,Yes,1,2,12,5,6,Yes
+26,HR,Sales Executive,83219,2,4,2,5,2,Yes,4,1,38,1,6,Yes
+26,Finance,Analyst,60186,4,2,2,12,2,No,3,1,28,0,8,No
+23,HR,Manager,61966,3,3,2,0,3,Yes,2,2,17,3,2,Yes
+27,Sales,Consultant,58769,3,3,3,19,6,No,3,3,1,2,0,No
+28,IT,HR Executive,144932,3,1,1,18,11,No,3,4,32,3,1,No
+35,Marketing,Developer,130423,2,3,3,0,11,No,2,2,8,1,5,Yes
+49,Sales,Sales Executive,78218,1,1,3,1,11,No,1,3,24,3,9,Yes
+53,Finance,HR Executive,44229,4,2,3,14,1,Yes,2,1,10,5,9,No
+50,Marketing,Consultant,100209,3,4,4,13,9,Yes,2,3,39,6,8,No
+59,IT,Consultant,52877,3,3,4,18,3,Yes,4,2,39,0,2,No
+47,IT,Analyst,83001,1,3,3,10,3,No,3,2,10,5,9,No
+56,HR,Consultant,122137,3,3,1,14,0,Yes,1,3,36,0,1,Yes
+49,Marketing,Sales Executive,63084,4,2,3,5,9,Yes,3,2,25,4,0,No
+58,HR,HR Executive,106780,2,1,2,19,7,Yes,2,4,10,0,1,Yes
+53,Sales,Sales Executive,117892,3,2,4,8,0,No,1,3,19,4,2,No
+57,Marketing,Manager,41806,4,4,4,4,7,Yes,1,1,15,5,6,Yes
+47,Sales,Manager,113635,3,2,3,19,6,No,1,3,16,2,1,No
+53,HR,Developer,135177,1,4,3,1,8,Yes,1,3,2,1,4,Yes
+24,Marketing,Developer,62034,3,3,1,5,7,No,4,3,29,2,1,No
+42,HR,Manager,65317,3,4,1,17,4,Yes,1,3,4,4,6,Yes
+22,Marketing,Consultant,80468,2,4,2,18,7,Yes,2,1,29,3,9,Yes
+30,HR,Sales Executive,44094,1,1,3,8,10,Yes,4,1,31,3,7,Yes
+25,IT,Manager,82796,1,4,3,5,9,No,2,1,17,2,7,Yes
+30,HR,Developer,35589,2,4,3,13,11,Yes,2,3,10,3,7,Yes
+53,IT,Manager,82221,3,2,4,12,11,Yes,3,4,27,4,9,No
+58,HR,Consultant,149855,4,3,2,10,2,No,1,4,15,5,8,No
+33,Marketing,Manager,26657,1,2,1,11,9,No,1,1,31,1,0,No
+51,Marketing,Sales Executive,123300,1,2,4,18,6,No,2,4,21,6,0,No
+56,Marketing,HR Executive,142229,3,3,4,18,11,No,1,4,26,0,9,No
+44,Finance,Consultant,64531,3,3,4,18,3,Yes,4,4,38,4,1,No
+35,Sales,Developer,77227,1,4,4,12,4,Yes,3,4,36,6,5,Yes
+49,Marketing,Sales Executive,28164,3,4,2,13,8,No,1,4,17,4,0,No
+28,IT,Manager,118078,4,1,3,17,6,Yes,1,2,3,0,4,Yes
+25,Marketing,Manager,108973,1,2,1,11,3,No,4,1,14,0,4,No
+49,Finance,HR Executive,66247,4,3,1,3,5,Yes,3,3,13,1,3,No
+24,IT,Developer,129041,4,4,4,9,9,No,4,4,27,1,4,No
+32,Finance,Developer,44601,3,3,4,16,10,Yes,2,2,1,1,0,No
+22,IT,Analyst,118966,4,4,2,3,6,No,2,3,17,3,5,No
+47,HR,Developer,75599,3,1,4,11,9,No,1,2,34,4,6,Yes
+51,Sales,HR Executive,96545,2,1,1,12,8,Yes,3,4,14,5,7,No
+56,Sales,Analyst,140295,3,3,1,3,3,Yes,2,4,17,0,1,Yes
+56,Finance,Analyst,29552,4,1,3,9,9,Yes,4,4,3,4,6,Yes
+46,Sales,Manager,141452,2,3,3,2,2,No,2,4,34,6,5,Yes
+47,Finance,Manager,34417,3,4,1,14,7,Yes,2,3,25,4,8,No
+25,Finance,Developer,83579,4,2,1,1,0,No,4,3,2,1,7,Yes
+40,Finance,Analyst,132525,1,1,2,16,8,Yes,1,2,34,1,3,Yes
+31,Sales,Manager,93207,1,4,2,5,0,Yes,3,1,26,4,8,Yes
+30,Finance,HR Executive,97055,3,2,1,7,1,No,1,4,31,1,0,No
+58,Sales,Manager,127266,3,2,4,2,7,No,4,2,9,3,5,Yes
+26,Finance,Consultant,103270,1,2,3,17,8,Yes,2,2,30,0,7,Yes
+28,Marketing,Consultant,136426,4,4,1,0,6,No,3,2,20,6,3,No
+43,Finance,Manager,142865,4,4,4,15,2,No,1,4,21,4,1,No
+46,IT,Analyst,28722,4,3,1,6,6,Yes,4,4,29,0,1,No
+32,Finance,Analyst,95442,3,2,3,2,5,No,2,2,25,3,9,Yes
+46,HR,Sales Executive,120632,2,2,3,3,1,Yes,2,4,38,6,0,Yes
+33,Finance,Consultant,65031,2,2,2,8,2,Yes,1,2,25,1,4,Yes
+38,IT,HR Executive,104235,2,3,2,4,10,No,4,3,9,2,5,No
+45,IT,Analyst,46438,2,2,2,18,11,Yes,2,4,39,3,3,Yes
+53,Sales,Developer,83819,2,4,2,14,9,No,2,3,26,2,3,Yes
+32,Marketing,Consultant,68856,3,2,3,7,9,Yes,3,1,37,0,4,Yes
+56,Finance,HR Executive,58576,3,1,4,5,11,No,2,4,16,4,4,No
+24,Sales,HR Executive,66938,2,4,4,17,4,No,1,1,37,6,8,Yes
+25,Marketing,Analyst,74028,3,3,4,18,9,No,4,2,12,1,7,No
+57,Finance,HR Executive,84807,3,2,1,14,3,No,4,4,24,6,8,No
+28,HR,Analyst,74877,2,1,2,6,1,No,3,4,26,3,2,Yes
+48,Finance,Manager,122783,4,3,2,9,3,Yes,4,4,20,1,2,No
+51,IT,Consultant,68461,3,3,3,5,11,Yes,1,1,9,2,0,No
+29,IT,Sales Executive,118474,4,4,3,13,7,No,2,1,23,2,9,No
+49,HR,Manager,65469,3,3,1,16,4,Yes,3,2,39,5,5,Yes
+34,Sales,Consultant,108136,3,3,1,8,4,No,4,3,29,6,3,Yes
+42,Marketing,Analyst,45435,2,3,4,18,11,No,3,3,31,4,7,No
+31,Finance,Consultant,109117,3,3,3,4,11,Yes,3,1,19,2,1,No
+43,IT,Analyst,39191,1,2,2,6,9,Yes,4,4,20,4,1,Yes
+21,Sales,Manager,109726,1,2,4,18,2,No,3,3,23,5,6,No
+57,HR,Developer,148658,2,2,2,19,7,No,4,3,27,3,4,No
+41,IT,Developer,140660,4,2,4,6,5,No,1,1,30,5,0,Yes
+46,HR,Consultant,52386,4,1,2,1,1,No,4,2,21,4,6,Yes
+56,Finance,Developer,56721,4,2,1,15,1,No,2,1,35,2,6,Yes
+43,Marketing,Analyst,79786,1,3,4,12,8,No,4,1,7,0,9,No
+21,IT,HR Executive,38704,4,2,2,7,6,Yes,2,4,22,4,5,Yes
+35,IT,Analyst,81635,4,2,2,5,9,No,3,1,10,1,3,No
+41,Finance,HR Executive,27123,2,4,3,5,8,No,4,4,23,0,7,Yes
+29,Sales,Manager,115710,4,3,4,8,5,Yes,2,2,15,6,1,Yes
+29,Marketing,Sales Executive,134837,1,2,2,3,4,No,4,4,30,4,1,Yes
+30,IT,HR Executive,139912,1,2,3,10,11,No,4,2,34,1,1,No
+46,Marketing,Developer,87993,1,2,2,4,0,Yes,4,2,13,6,2,No
+55,IT,Analyst,137752,2,1,4,16,11,No,1,2,4,5,5,Yes
+45,Marketing,Manager,105122,2,2,1,19,5,Yes,2,1,18,0,0,Yes
+46,HR,Developer,122512,3,4,4,6,5,No,1,4,23,4,1,No
+31,IT,Manager,50416,4,3,4,14,2,Yes,1,3,33,3,9,Yes
+58,Marketing,Sales Executive,26814,2,3,2,14,2,Yes,2,1,34,5,1,Yes
+22,Sales,Analyst,103537,1,2,2,13,2,Yes,4,2,34,1,0,Yes
+27,HR,Consultant,75258,1,2,4,12,2,No,1,3,36,3,2,Yes
+38,HR,Analyst,41508,2,2,3,10,6,No,1,1,35,2,9,Yes
+47,Sales,Sales Executive,110166,2,3,3,12,9,Yes,1,3,17,5,6,Yes
+54,Marketing,Analyst,103916,2,3,3,8,10,Yes,4,2,28,5,0,Yes
+47,Finance,Consultant,138710,3,1,2,9,1,No,1,3,14,4,6,Yes
+37,Sales,HR Executive,60699,1,4,2,3,9,No,3,3,34,4,4,No
+44,Marketing,Manager,71335,3,1,4,16,9,No,2,2,11,1,8,No
+45,Sales,Consultant,71806,3,4,1,13,1,No,3,3,13,5,1,No
+27,Sales,Developer,102853,4,1,2,17,2,No,4,1,33,4,0,No
+26,IT,Sales Executive,88768,1,3,4,10,9,Yes,1,3,2,2,8,No
+44,Marketing,HR Executive,60739,1,1,4,15,11,No,2,4,34,6,7,Yes
+53,Finance,Developer,59785,2,4,1,0,6,Yes,1,1,29,6,9,Yes
+49,IT,Developer,56980,2,2,3,6,2,No,4,3,37,6,5,No
+42,Sales,Sales Executive,114335,4,4,4,9,6,Yes,2,4,4,4,4,No
+46,Sales,HR Executive,125719,3,2,4,8,8,Yes,3,4,12,5,7,No
+48,Sales,Developer,119702,2,3,4,2,10,No,2,4,26,6,7,Yes
+41,Marketing,Developer,110016,2,4,3,13,9,Yes,1,3,28,0,4,Yes
+27,Marketing,HR Executive,26609,1,1,3,14,11,Yes,2,2,3,3,6,Yes
+37,IT,Analyst,91253,1,4,1,1,10,Yes,4,4,20,5,0,Yes
+40,Finance,Developer,110481,2,2,2,13,3,Yes,4,2,10,2,3,Yes
+40,IT,Manager,116128,1,3,3,15,6,No,2,1,18,5,1,No
+42,HR,HR Executive,53141,4,1,2,6,8,Yes,4,2,27,2,9,No
+48,Sales,Developer,55009,2,4,2,3,7,No,4,2,31,5,2,No
+27,Sales,Sales Executive,135966,1,2,3,17,7,Yes,4,2,27,6,0,Yes
+21,Sales,Consultant,31782,4,1,4,4,8,No,3,2,1,3,1,No
+52,IT,Manager,117072,1,3,1,5,4,No,1,2,6,3,0,Yes
+33,IT,Consultant,124352,1,1,2,6,4,No,4,1,11,2,7,Yes
+50,Sales,Consultant,50933,1,3,4,14,2,Yes,2,1,34,5,3,Yes
+43,IT,Developer,102154,2,1,3,0,4,No,4,2,39,3,2,Yes
+39,Marketing,Manager,33307,3,4,2,3,7,No,3,2,20,1,0,No
+52,Marketing,Manager,117207,1,2,2,0,11,Yes,2,4,21,5,1,Yes
+50,IT,Analyst,131209,4,4,2,10,4,No,1,1,21,3,2,No
+49,Sales,Consultant,133297,2,4,4,17,3,Yes,2,3,18,0,2,Yes
+49,IT,Manager,100874,2,3,4,13,7,Yes,2,1,21,0,5,Yes
+50,IT,Analyst,63346,4,3,4,10,6,No,2,3,19,1,9,No
+36,IT,HR Executive,137138,1,3,2,9,5,Yes,2,4,4,3,7,Yes
+39,HR,Analyst,75772,3,4,2,16,4,Yes,4,2,13,0,5,No
+38,Marketing,Sales Executive,97084,1,1,1,3,4,Yes,1,4,18,6,1,Yes
+21,Finance,Developer,65149,4,1,1,14,9,No,4,2,29,5,1,Yes
+34,Finance,HR Executive,111700,2,4,4,15,1,Yes,3,1,25,4,6,Yes
+22,HR,HR Executive,52526,3,4,4,12,3,Yes,3,2,13,3,0,No
+48,IT,Sales Executive,121758,2,2,3,8,7,Yes,2,3,27,1,0,Yes
+50,HR,Analyst,110712,4,3,4,10,7,No,4,3,19,3,6,No
+58,HR,Developer,93477,1,3,1,10,10,Yes,4,4,1,2,8,Yes
+24,Sales,Analyst,30695,3,4,1,5,0,No,1,1,38,2,4,Yes
+21,Marketing,Manager,64169,2,4,1,0,1,Yes,1,3,19,0,0,Yes
+28,Finance,Analyst,72947,2,1,2,5,4,No,1,4,1,2,4,No
+49,IT,HR Executive,72224,2,4,2,12,8,No,4,1,17,1,0,No
+59,Finance,Developer,70865,1,1,4,4,9,No,1,1,21,0,9,Yes
+23,Finance,Analyst,50553,3,4,3,14,10,Yes,1,4,22,1,8,Yes
+52,Marketing,Developer,129501,1,2,3,17,11,Yes,1,3,15,5,3,Yes
+30,Finance,Developer,85410,1,2,3,19,10,Yes,2,3,39,1,8,Yes
+30,Finance,Manager,128754,1,1,2,13,6,No,3,4,39,2,1,Yes
+39,HR,Manager,115895,4,3,1,14,9,Yes,3,3,32,5,6,Yes
+54,Marketing,HR Executive,49816,4,2,1,4,4,Yes,4,4,4,2,1,No
+53,Sales,Sales Executive,80026,4,1,2,3,0,No,4,3,32,1,3,No
+43,IT,Developer,75705,3,4,3,1,5,Yes,2,3,4,2,5,Yes
+48,Finance,Sales Executive,86922,1,4,3,6,11,Yes,3,4,1,2,1,Yes
+52,IT,HR Executive,140700,1,1,4,9,7,No,1,4,33,2,1,Yes
+27,Sales,Developer,98914,4,3,4,15,6,No,1,3,7,3,1,No
+49,IT,Developer,26881,1,1,3,9,1,Yes,4,4,9,5,2,Yes
+28,Sales,Consultant,64567,1,1,2,17,11,No,3,3,1,5,4,Yes
+21,HR,Sales Executive,72365,2,2,3,16,4,Yes,4,2,16,6,8,Yes
+23,Finance,Analyst,104211,1,1,4,12,10,Yes,4,1,18,5,5,Yes
+44,Sales,Manager,95122,2,1,3,0,3,Yes,1,1,6,6,8,Yes
+43,IT,Analyst,50006,1,4,2,0,8,Yes,1,3,2,1,9,Yes
+28,Finance,Sales Executive,66198,3,2,1,14,9,Yes,3,1,9,6,4,No
+57,HR,Manager,47831,4,4,2,0,0,No,4,3,4,6,5,No
+23,Finance,Analyst,125649,2,4,2,5,11,No,2,4,23,4,9,Yes
+53,Sales,Consultant,41459,4,3,4,12,5,Yes,3,2,8,1,7,No
+48,HR,Manager,57443,2,3,2,0,2,No,4,1,39,5,2,Yes
+28,IT,Developer,67316,2,2,2,4,10,No,3,1,25,0,1,Yes
+54,HR,Analyst,121131,2,2,4,8,8,Yes,3,4,16,2,2,Yes
+55,HR,Manager,89486,3,3,4,16,4,No,3,2,35,2,8,Yes
+52,Marketing,Consultant,30877,1,3,1,15,5,No,2,2,17,4,5,Yes
+44,HR,Manager,64553,2,3,3,7,10,Yes,2,2,18,0,9,No
+34,HR,Manager,139137,3,3,2,16,8,Yes,1,4,27,3,3,Yes
+52,Finance,Consultant,29922,2,3,4,14,8,Yes,1,1,15,6,9,No
+36,IT,Analyst,147778,1,4,1,0,7,Yes,4,1,17,1,2,Yes
+24,Finance,HR Executive,142018,2,2,3,11,8,Yes,3,2,5,3,1,Yes
+57,Finance,Analyst,29686,3,4,4,4,3,Yes,4,4,16,0,3,No
+41,Sales,Sales Executive,57766,1,4,3,5,5,Yes,1,4,15,4,8,Yes
+34,Finance,Consultant,104943,3,1,3,0,4,No,2,4,34,0,3,Yes
+51,Marketing,Analyst,57006,1,4,2,0,4,Yes,1,2,19,4,4,Yes
+38,Marketing,Manager,56422,1,3,2,9,3,No,4,4,8,3,7,Yes
+27,Sales,Consultant,141590,4,3,4,9,1,No,1,2,10,3,1,Yes
+30,IT,Developer,37205,4,1,3,2,11,Yes,4,2,5,0,2,No
+27,IT,Analyst,111590,4,1,4,16,5,No,4,2,26,0,5,Yes
+53,Finance,Consultant,48527,1,1,4,18,8,No,4,3,22,6,6,Yes
+43,Finance,Analyst,136483,2,1,3,10,11,No,4,2,23,2,3,Yes
+41,Finance,Consultant,43443,3,1,4,17,0,Yes,1,4,13,4,0,Yes
+39,IT,Manager,41524,3,4,3,1,6,No,4,3,9,2,6,No
+39,HR,Developer,141477,3,1,3,8,5,No,4,1,20,1,8,No
+56,Marketing,Developer,53202,4,4,3,16,2,Yes,3,1,28,1,0,Yes
+49,HR,Sales Executive,90552,1,2,3,13,0,No,4,4,37,0,0,Yes
+38,HR,Consultant,71142,4,1,1,3,3,No,1,4,24,3,0,No
+22,IT,Analyst,86692,2,1,3,16,8,No,4,4,33,1,9,Yes
+21,HR,Developer,107384,1,4,2,16,1,No,2,4,20,1,6,No
+25,Sales,Developer,45855,3,2,2,11,2,No,2,3,30,2,8,No
+40,Finance,HR Executive,108747,4,4,2,19,1,Yes,4,4,9,2,2,No
+31,Sales,HR Executive,85372,4,4,3,17,1,No,2,2,17,6,7,No
+22,Marketing,Developer,50095,2,1,2,2,9,Yes,2,1,36,6,8,Yes
+23,Finance,Consultant,63724,2,3,1,10,10,No,1,4,14,1,2,Yes
+43,HR,Sales Executive,74241,4,3,4,17,10,Yes,3,2,19,0,2,No
+32,Marketing,Developer,128119,2,4,3,3,7,Yes,2,4,7,2,0,Yes
+40,Finance,Manager,77003,3,1,2,16,2,Yes,2,2,3,1,1,No
+25,HR,Analyst,93379,2,2,1,17,6,No,3,3,33,3,6,Yes
+57,Sales,Sales Executive,119837,2,3,4,4,7,No,3,1,32,2,2,No
+58,Finance,Manager,116996,4,2,1,13,2,No,2,1,11,1,6,Yes
+50,HR,Sales Executive,122454,4,3,2,9,1,No,4,3,2,6,4,No
+29,Sales,Manager,119283,1,1,1,14,7,No,2,2,26,4,9,Yes
+54,Marketing,Analyst,40972,1,4,4,0,2,Yes,4,4,4,2,7,Yes
+55,Marketing,Analyst,148805,4,2,2,15,6,Yes,4,2,17,4,4,Yes
+42,Marketing,HR Executive,118846,2,2,4,10,11,Yes,4,1,17,2,2,No
+44,Marketing,Consultant,47927,2,4,1,19,0,No,3,3,28,2,8,No
+37,IT,Manager,145589,1,2,3,5,11,No,2,3,30,6,6,Yes
+30,Finance,HR Executive,140657,1,3,3,15,5,Yes,2,2,23,5,4,Yes
+50,Finance,Manager,91630,1,4,3,1,11,No,1,2,24,5,6,Yes
+43,IT,HR Executive,129428,3,3,3,0,11,No,3,3,29,4,9,Yes
+52,HR,Analyst,147035,3,3,4,8,8,Yes,1,1,4,0,8,Yes
+37,HR,Sales Executive,77347,1,1,3,11,11,Yes,1,4,38,1,4,Yes
+37,Marketing,HR Executive,124708,2,3,4,16,2,No,4,4,29,0,6,No
+34,Sales,Manager,113860,1,1,2,14,6,No,3,2,19,0,8,No
+29,HR,Manager,111210,3,2,3,18,5,Yes,1,3,27,5,0,No
+22,Sales,Consultant,94518,2,2,4,9,7,No,2,3,29,1,3,Yes
+45,Finance,Analyst,70283,3,1,3,11,2,Yes,1,3,36,5,0,No
+59,Sales,Manager,106326,2,3,3,13,2,Yes,3,1,35,5,7,Yes
+29,Finance,Developer,37205,3,4,3,8,3,Yes,2,2,6,6,2,No
+42,IT,Sales Executive,145243,2,4,4,12,2,No,2,2,23,5,1,No
+24,IT,HR Executive,114874,2,1,1,2,8,Yes,2,2,39,3,3,Yes
+46,Marketing,Consultant,37748,2,2,3,13,10,Yes,4,1,8,0,2,Yes
+49,HR,Sales Executive,46097,2,2,3,9,3,No,2,2,2,6,4,Yes
+54,Marketing,Analyst,28092,4,4,2,15,5,Yes,4,4,13,6,7,No
+43,Finance,Consultant,78311,3,1,1,6,7,No,4,2,21,0,9,No
+57,Marketing,HR Executive,47692,3,4,4,3,10,No,1,2,31,6,7,No
+31,Sales,HR Executive,149954,4,3,2,19,7,No,1,2,36,0,6,No
+26,Finance,Developer,48862,2,3,3,10,4,Yes,2,1,38,3,7,Yes
+38,IT,Analyst,115396,2,1,2,15,4,Yes,3,4,27,2,4,Yes
+41,HR,Consultant,104507,3,1,2,19,5,No,2,4,36,6,9,Yes
+56,Finance,Consultant,105152,4,3,3,3,9,No,1,3,23,4,9,Yes
+58,Finance,Manager,95469,2,2,1,16,6,No,2,3,21,4,5,Yes
+54,Sales,Developer,29926,2,1,1,12,9,Yes,1,4,13,3,7,Yes
+37,HR,Developer,116299,2,3,2,10,6,No,2,2,37,0,0,Yes
+57,IT,Consultant,28969,1,3,3,2,3,No,3,2,26,4,5,No
+45,Finance,Consultant,60733,4,2,4,8,5,No,2,2,7,3,5,Yes
+58,Finance,Sales Executive,94855,2,2,2,5,6,Yes,3,1,39,5,4,Yes
+32,Sales,Sales Executive,66743,1,2,4,10,4,No,3,2,22,1,3,No
+43,Marketing,Sales Executive,64876,4,2,2,15,4,Yes,2,1,39,4,0,Yes
+42,IT,Developer,132445,2,4,2,18,1,Yes,3,4,23,1,9,No
+41,HR,Manager,45323,3,2,3,4,6,No,3,2,30,0,7,No
+47,Finance,HR Executive,41428,1,4,3,13,11,No,1,2,18,4,5,Yes
+51,Finance,Sales Executive,59578,1,1,4,16,5,No,1,3,18,3,2,No
+26,IT,Manager,111486,2,3,4,2,10,Yes,3,4,10,2,2,Yes
+47,Marketing,Analyst,133577,2,4,1,3,0,Yes,4,2,39,4,5,No
+54,Finance,Sales Executive,89140,1,1,3,15,3,Yes,2,1,30,4,6,Yes
+32,IT,HR Executive,132325,3,1,2,15,2,No,3,4,26,4,7,No
+27,Sales,Analyst,108829,3,4,2,3,11,Yes,2,3,7,4,4,Yes
+30,Marketing,Analyst,31364,4,1,1,18,2,No,1,4,7,3,9,No
+37,HR,HR Executive,60349,2,1,3,16,6,No,2,1,5,3,5,Yes
+46,Finance,Sales Executive,25691,3,4,2,12,10,No,3,3,1,2,0,No
+41,IT,Developer,120598,4,1,1,0,11,Yes,3,1,18,3,5,Yes
+48,Sales,HR Executive,91467,3,2,1,11,9,Yes,3,4,13,3,8,Yes
+22,HR,HR Executive,70896,2,2,2,3,3,Yes,3,3,25,0,9,Yes
+21,IT,HR Executive,82062,4,3,2,10,11,No,4,1,8,6,3,No
+56,IT,Analyst,122266,4,1,4,4,7,Yes,4,4,10,0,9,No
+46,HR,Manager,104762,4,3,3,1,10,Yes,4,1,32,6,0,Yes
+49,Sales,Developer,38861,3,2,4,16,8,No,3,2,17,1,8,No
+41,Sales,Sales Executive,121837,2,2,1,7,2,No,4,4,38,2,3,Yes
+31,Marketing,Sales Executive,138779,4,2,2,5,4,Yes,2,3,15,6,1,Yes
+31,Finance,Manager,113302,1,1,4,8,3,No,3,3,15,0,0,No
+56,HR,HR Executive,126710,2,1,1,12,11,Yes,1,2,20,2,2,Yes
+59,HR,Developer,88928,1,2,3,10,9,No,3,1,15,2,6,Yes
+55,HR,Sales Executive,131643,1,3,2,15,5,No,2,1,35,4,9,Yes
+54,Sales,Consultant,140720,4,3,4,15,10,Yes,4,3,6,5,1,No
+44,Finance,Sales Executive,108231,4,4,3,1,9,No,3,1,30,5,8,Yes
+42,Marketing,HR Executive,66347,3,2,4,9,3,No,4,4,8,5,1,Yes
+25,IT,Consultant,28121,3,3,1,11,7,No,3,4,31,2,4,No
+53,IT,Manager,108793,3,2,3,7,2,Yes,2,3,32,4,7,Yes
+56,HR,Developer,53164,2,3,4,10,10,No,3,4,15,1,9,No
+40,Finance,Manager,50491,3,4,3,9,4,No,4,3,18,1,7,No
+39,Sales,Manager,84222,1,4,1,12,0,Yes,4,1,13,5,2,Yes
+55,Finance,Developer,48165,3,2,3,16,5,Yes,2,1,24,1,1,Yes
+37,Finance,Developer,139250,4,3,4,6,10,No,3,1,14,4,8,No
+54,Sales,Sales Executive,28748,3,1,1,2,4,No,1,2,28,5,2,No
+29,HR,Sales Executive,123581,2,4,2,19,7,No,3,3,11,6,7,No
+46,Finance,Developer,51553,2,2,4,12,8,Yes,2,4,6,6,1,Yes
+22,IT,Consultant,141547,1,2,4,18,7,No,1,1,25,4,2,No
+29,Sales,Analyst,85380,2,3,1,6,7,Yes,2,2,1,1,0,Yes
+29,Marketing,Sales Executive,69331,3,2,1,8,11,Yes,3,4,25,5,5,Yes
+37,HR,Analyst,121033,4,4,2,18,2,No,1,4,2,6,6,No
+21,Sales,Consultant,121844,2,2,4,12,3,No,2,4,32,4,3,Yes
+45,Marketing,Developer,145617,1,2,1,7,10,Yes,4,1,13,3,0,Yes
+45,Marketing,Consultant,64560,3,1,2,17,3,No,1,4,33,6,2,No
+59,Finance,Sales Executive,78865,1,1,2,1,10,No,1,3,32,3,8,Yes
+55,Finance,Manager,71686,2,4,1,17,4,Yes,2,2,24,4,4,Yes
+23,Finance,Developer,100910,2,3,4,17,8,No,4,4,27,4,5,Yes
+57,Sales,HR Executive,29675,1,1,3,10,11,Yes,1,4,4,0,3,Yes
+50,Sales,Analyst,91706,3,3,3,0,8,No,2,3,24,6,0,No
+58,HR,Consultant,131985,2,4,2,13,9,Yes,1,4,23,0,4,No
+54,Finance,Developer,134021,4,1,3,15,11,Yes,1,1,29,2,4,Yes
+32,Marketing,Consultant,149062,2,3,3,10,0,No,1,1,34,6,4,No
+39,IT,Developer,102986,3,1,1,0,7,Yes,4,1,21,5,5,Yes
+57,HR,Sales Executive,101216,2,4,2,6,0,Yes,3,4,30,2,1,Yes
+37,Sales,Sales Executive,35068,1,4,4,15,1,No,3,2,26,2,0,No
+30,HR,Sales Executive,79460,2,1,2,13,6,No,4,2,20,1,1,Yes
+32,HR,Consultant,125766,2,3,1,14,7,No,4,4,16,3,9,Yes
+36,HR,HR Executive,71418,3,2,3,13,0,Yes,2,2,3,1,5,Yes
+44,HR,Sales Executive,51206,1,2,4,10,2,Yes,1,2,37,5,4,Yes
+39,IT,Developer,25287,3,1,2,15,6,Yes,4,4,25,4,4,Yes
+28,Finance,Sales Executive,47337,2,3,3,18,8,No,2,1,23,0,5,Yes
+51,Marketing,Manager,45666,4,2,2,16,7,Yes,3,4,1,5,9,Yes
+41,HR,Sales Executive,141595,2,4,4,5,7,Yes,3,1,33,4,6,Yes
+37,HR,Consultant,26161,3,3,2,10,8,No,3,1,15,5,8,No
+43,HR,HR Executive,139817,4,2,2,16,9,Yes,3,2,17,4,6,Yes
+57,Finance,Manager,146025,3,3,2,8,2,No,2,2,34,6,1,Yes
+36,Sales,Consultant,125667,3,1,3,17,7,No,1,1,17,0,5,Yes
+26,Sales,Consultant,115071,1,3,4,16,0,No,2,1,4,4,8,No
+28,IT,Consultant,123064,4,2,4,11,7,Yes,1,2,13,2,6,Yes
+45,Sales,Developer,63751,2,1,3,4,6,Yes,3,3,4,5,1,Yes
+38,HR,Consultant,107063,3,3,3,10,7,Yes,4,1,7,0,2,No
+45,HR,Developer,131511,2,4,3,3,0,No,4,1,9,4,7,No
+32,HR,Consultant,114389,1,2,1,3,5,No,4,1,23,2,8,Yes
+35,IT,Analyst,39758,1,1,2,2,6,No,1,2,33,2,3,Yes
+46,HR,Manager,90780,4,3,2,16,10,Yes,3,4,33,6,8,Yes
+46,Sales,Analyst,140614,1,4,4,6,4,Yes,2,1,20,3,1,No
+52,Finance,Consultant,28178,1,2,2,3,4,Yes,4,1,4,2,4,Yes
+30,Finance,Manager,56831,2,4,1,12,6,Yes,1,1,1,1,1,Yes
+36,Marketing,Manager,27176,1,3,3,11,10,Yes,4,4,34,0,0,Yes
+27,Sales,HR Executive,128306,1,3,4,0,2,No,2,4,27,0,4,No
+37,HR,Analyst,58654,3,1,4,18,5,Yes,3,1,21,0,1,No
+43,Finance,HR Executive,148220,1,4,2,19,6,No,2,1,24,4,6,Yes
+46,Sales,Manager,51627,3,1,4,17,0,No,3,3,15,5,7,No
+41,Finance,Developer,77550,1,2,3,10,11,Yes,3,4,35,4,1,No
+42,HR,Manager,137025,1,1,4,19,1,No,3,3,25,1,6,Yes
+27,Finance,HR Executive,69910,4,2,3,2,11,Yes,4,1,9,5,3,Yes
+34,Marketing,Analyst,115417,4,3,1,16,3,Yes,2,1,17,6,0,Yes
+35,Marketing,Consultant,83251,3,3,1,11,7,No,4,1,21,2,2,No
+27,Finance,Consultant,60422,1,4,3,9,10,Yes,2,1,13,4,0,Yes
+29,Sales,Analyst,36984,2,2,2,7,9,Yes,1,2,3,5,4,Yes
+28,Sales,Consultant,114312,4,3,4,14,5,No,1,2,4,2,7,No
+43,Sales,Consultant,86386,2,4,2,4,0,No,2,2,4,5,0,Yes
+49,Finance,HR Executive,108291,4,4,4,3,9,No,2,3,28,2,8,No
+38,Sales,Analyst,32135,4,1,1,19,4,No,2,4,7,5,2,No
+51,HR,Sales Executive,25320,1,4,1,18,6,No,2,1,26,4,4,Yes
+50,Marketing,Developer,127958,4,3,1,3,5,No,3,4,11,4,8,No
+59,HR,Developer,119171,2,1,4,14,11,Yes,4,2,24,1,4,Yes
+55,Sales,Consultant,46684,4,2,1,16,8,Yes,3,1,10,6,8,Yes
+38,HR,Developer,80913,3,2,1,11,7,Yes,4,1,37,6,9,Yes
+59,Sales,Analyst,113774,1,3,1,2,3,No,4,3,13,3,7,Yes
+37,Finance,Analyst,46889,1,3,1,9,10,Yes,4,4,39,0,6,Yes
+34,HR,Manager,120849,3,1,2,14,11,No,3,3,19,4,0,No
+51,Finance,Manager,123071,3,1,1,9,4,Yes,2,2,19,4,3,Yes
+44,Finance,Developer,73899,3,3,1,17,6,No,3,4,12,2,8,No
+55,IT,Sales Executive,149011,4,3,2,0,7,Yes,3,2,22,3,9,Yes
+54,Sales,Manager,35770,1,2,2,2,4,No,4,3,37,6,7,Yes
+23,Marketing,Manager,64321,3,2,4,11,8,No,1,3,30,4,3,No
+57,Sales,Analyst,110962,4,2,3,0,9,No,1,1,12,5,0,No
+46,Marketing,Sales Executive,134863,3,3,1,2,11,No,3,4,29,6,9,No
+43,Sales,Consultant,66777,2,4,1,2,3,Yes,4,4,21,3,3,Yes
+59,Finance,Developer,71250,2,3,1,4,3,Yes,3,1,11,0,2,Yes
+35,HR,Manager,98034,1,3,4,18,7,No,3,4,37,5,5,No
+24,HR,Sales Executive,129940,4,2,1,0,0,No,2,2,18,2,4,Yes
+49,IT,Sales Executive,65130,2,3,3,3,7,No,4,2,27,1,4,No
+42,Marketing,Developer,106931,2,1,2,3,4,Yes,1,3,37,5,1,Yes
+45,Marketing,Sales Executive,74346,4,3,4,16,10,No,1,2,12,6,2,No
+33,Marketing,Sales Executive,27537,3,3,2,13,0,No,1,4,23,0,5,No
+38,Finance,Sales Executive,109762,4,3,1,17,3,Yes,3,1,34,5,1,No
+53,Marketing,Manager,40216,3,3,1,0,1,No,4,3,38,3,3,No
+36,HR,Developer,109149,2,4,1,15,3,No,2,1,23,3,1,No
+22,Finance,Sales Executive,28009,2,3,3,2,7,Yes,1,3,25,0,8,Yes
+55,Sales,Sales Executive,114904,2,1,3,8,4,No,4,3,4,6,2,No
+54,Marketing,Manager,54327,1,1,4,3,0,No,1,1,30,3,9,Yes
+50,Marketing,Developer,39209,1,3,2,4,6,Yes,2,2,30,5,9,Yes
+33,Sales,Analyst,73443,1,2,1,10,0,No,4,2,13,1,5,Yes
+33,Marketing,Manager,40029,4,4,1,8,8,Yes,3,2,14,5,0,No
+38,Sales,Developer,92613,2,3,1,2,2,No,3,2,8,1,9,Yes
+52,Finance,Sales Executive,104443,2,3,1,5,11,No,1,1,24,3,2,No
+52,HR,Developer,81997,4,3,3,10,2,No,1,4,18,5,7,No
+55,Sales,Developer,127171,1,2,2,8,5,No,4,3,35,3,4,Yes
+59,IT,Consultant,139456,4,2,2,14,9,No,2,1,25,6,7,No
+49,Sales,Developer,87559,1,2,4,2,5,Yes,1,2,17,1,1,Yes
+49,Marketing,Analyst,89892,2,4,3,0,10,No,4,2,32,6,6,Yes
+36,Finance,Developer,95409,3,1,1,19,10,No,2,1,24,3,8,Yes
+30,Finance,Analyst,33635,1,4,2,18,5,Yes,1,3,7,4,6,Yes
+50,Sales,Sales Executive,58065,2,2,2,13,0,Yes,1,1,13,2,2,Yes
+45,HR,Analyst,136399,2,1,3,16,4,No,4,1,27,5,6,Yes
+59,IT,Sales Executive,145544,3,1,4,13,11,Yes,1,4,5,4,7,Yes
+40,Finance,Sales Executive,132340,2,2,4,16,5,No,3,1,36,6,0,Yes
+25,Marketing,Analyst,58783,2,2,1,13,7,Yes,2,4,26,3,2,Yes
+21,Marketing,Manager,59152,1,4,4,11,0,Yes,2,3,31,3,4,No
+50,HR,HR Executive,83741,1,2,2,15,4,No,3,1,10,2,5,Yes
+23,Finance,Developer,132049,3,1,4,0,2,Yes,4,1,26,3,2,Yes
+34,Sales,Consultant,76502,3,3,1,12,1,No,3,2,22,2,3,No
+50,Marketing,HR Executive,54092,2,2,2,5,10,Yes,3,1,12,5,4,Yes
+24,HR,Developer,42653,1,2,4,16,7,Yes,2,2,32,1,2,Yes
+38,Finance,Developer,122999,3,4,4,11,6,Yes,4,2,27,2,3,No
+57,Finance,Sales Executive,124564,3,4,3,18,9,No,1,2,33,2,4,No
+45,Finance,Developer,65469,4,2,1,5,6,No,3,3,20,4,1,Yes
+21,Finance,Consultant,148064,3,1,4,6,4,Yes,3,4,39,3,9,No
+35,Finance,Developer,111483,2,1,3,0,11,No,4,2,13,5,8,Yes
+29,Marketing,Analyst,146585,1,3,2,0,8,No,3,1,14,1,9,Yes
+35,HR,HR Executive,84754,3,2,3,4,4,No,4,1,22,0,7,Yes
+44,Finance,Analyst,54978,4,4,3,5,1,Yes,1,2,18,6,5,No
+24,IT,Consultant,112592,1,1,4,15,2,No,4,2,29,2,9,Yes
+32,IT,Developer,119543,3,3,4,15,3,Yes,1,1,16,0,2,No
+57,HR,Consultant,68169,4,2,4,13,4,Yes,4,2,35,3,1,Yes
+57,Sales,Sales Executive,73287,3,1,3,0,2,Yes,3,4,34,6,6,Yes
+26,Sales,Analyst,79745,1,2,2,12,11,Yes,1,4,3,2,7,Yes
+59,Sales,Analyst,135168,1,2,1,19,6,Yes,3,3,4,0,9,Yes
+44,IT,Manager,138985,1,1,3,9,4,No,1,2,5,4,0,Yes
+31,Sales,Developer,145843,2,1,4,9,4,No,4,3,10,0,5,Yes
+33,Marketing,Sales Executive,30543,3,1,1,8,5,Yes,4,3,29,6,6,Yes
+54,Finance,Analyst,81392,2,2,2,12,6,No,4,3,32,4,8,Yes
+45,IT,Analyst,46067,1,2,1,2,9,No,2,2,31,6,2,Yes
+27,HR,Sales Executive,76033,4,3,4,17,9,No,2,3,2,1,1,No
+24,HR,Consultant,70256,3,4,3,19,7,No,1,4,12,3,4,No
+28,Finance,Consultant,115633,2,2,3,1,8,No,2,3,27,5,9,Yes
+40,IT,Developer,133383,3,4,4,16,10,No,4,4,5,0,0,No
+49,Sales,Manager,134048,4,1,3,18,3,No,2,4,37,2,5,Yes
+30,Sales,Analyst,94345,2,2,4,12,4,Yes,2,2,27,6,8,Yes
+54,Marketing,Manager,47191,1,3,3,12,4,Yes,3,3,23,6,9,No
+46,Marketing,Consultant,111803,2,3,3,0,7,Yes,1,2,33,3,8,Yes
+23,Sales,Consultant,97742,3,4,3,1,8,No,1,4,4,0,6,No
+26,HR,HR Executive,143843,3,1,2,0,6,No,1,1,21,2,6,Yes
+25,HR,Developer,111593,3,4,2,4,4,Yes,2,3,24,2,7,Yes
+25,Marketing,HR Executive,53992,3,1,4,2,2,No,4,2,31,6,9,Yes
+43,Finance,HR Executive,137050,1,3,2,6,0,No,3,1,24,5,1,Yes
+29,Sales,HR Executive,106531,2,4,4,12,10,Yes,1,3,10,6,5,Yes
+55,Marketing,Developer,73803,1,3,1,17,8,Yes,2,3,2,5,4,Yes
+40,Marketing,Developer,134975,1,3,1,6,4,Yes,4,2,31,6,4,Yes
+55,Sales,Sales Executive,88477,1,1,2,0,8,No,3,1,25,6,2,Yes
+38,Sales,Manager,38210,3,4,1,4,9,No,3,2,4,2,2,No
+37,HR,Manager,108329,3,4,1,16,11,No,1,3,11,5,5,No
+44,Finance,Sales Executive,51270,3,3,3,7,3,Yes,1,3,17,2,9,No
+23,Finance,Sales Executive,87008,2,3,3,14,4,Yes,4,4,2,0,9,Yes
+52,Sales,Consultant,30197,4,1,4,19,3,No,2,3,6,6,6,No
+55,IT,HR Executive,138857,3,2,1,3,1,Yes,4,3,9,1,0,No
+58,Marketing,Sales Executive,32452,2,2,4,1,11,Yes,1,1,5,5,2,Yes
+33,Marketing,Analyst,66486,3,3,4,4,0,No,4,1,20,4,0,No
+45,Sales,Manager,39859,3,2,1,0,7,Yes,2,4,29,4,9,Yes
+29,IT,Sales Executive,52236,1,2,2,4,3,Yes,3,4,21,4,2,Yes
+24,HR,Analyst,56899,1,2,1,5,4,Yes,3,4,9,1,4,Yes
+34,Sales,Analyst,57083,1,2,3,1,5,No,3,2,28,2,8,Yes
+57,Sales,Analyst,92708,2,3,1,0,7,No,3,2,8,2,2,No
+54,Marketing,Consultant,136462,4,2,2,3,10,Yes,1,4,31,3,9,Yes
+31,Sales,Consultant,41663,4,2,4,6,7,No,1,2,20,4,9,No
+23,Sales,Analyst,118076,2,1,4,0,6,No,2,3,27,4,8,Yes
+48,Sales,Consultant,143665,3,3,3,0,3,No,2,4,8,2,0,No
+49,Marketing,HR Executive,44053,2,4,3,7,5,Yes,2,4,21,4,5,Yes
+29,HR,Analyst,36085,3,4,3,19,3,No,2,2,28,2,8,No
+23,HR,HR Executive,55564,2,1,4,15,6,Yes,4,1,23,6,4,No
+45,Sales,HR Executive,114745,2,1,3,12,11,Yes,2,4,6,6,9,Yes
+54,Marketing,Analyst,84095,2,3,1,17,11,No,3,2,3,2,1,No
+32,HR,Manager,94517,4,4,4,19,10,Yes,3,2,5,5,4,No
+29,HR,Analyst,46153,1,2,2,9,0,No,3,1,9,2,0,Yes
+35,HR,Analyst,30247,2,1,4,11,4,No,4,4,7,0,8,No
+45,Marketing,Consultant,35553,4,4,1,0,9,Yes,2,1,4,0,9,Yes
+25,Marketing,Analyst,45811,1,3,1,9,11,Yes,3,3,39,0,9,Yes
+31,Sales,Manager,120381,1,2,3,8,9,No,3,1,5,0,8,Yes
+54,Finance,Consultant,31135,2,3,4,2,3,No,3,1,11,1,5,No
+44,HR,Developer,30573,3,1,4,18,10,No,3,2,15,3,8,No
+35,Finance,Developer,143819,3,4,4,8,6,No,1,1,34,3,2,No
+58,Marketing,HR Executive,149588,3,4,2,9,8,Yes,2,3,13,2,3,No
+28,Marketing,HR Executive,104267,2,4,3,18,4,Yes,2,2,7,6,5,Yes
+25,Marketing,Manager,32189,3,4,1,15,3,Yes,4,3,6,4,3,No
+46,Finance,Sales Executive,105077,4,2,1,17,8,No,1,1,39,0,0,Yes
+38,Marketing,Developer,68646,4,2,3,13,4,Yes,4,3,30,3,6,Yes
+26,Sales,HR Executive,101623,4,3,1,2,8,Yes,3,3,22,3,4,Yes
+57,Marketing,Developer,136971,4,2,1,1,7,Yes,4,1,25,0,7,Yes
+33,IT,Manager,78687,1,1,3,0,3,Yes,3,1,28,6,8,Yes
+48,Finance,Manager,93312,4,1,1,17,10,No,3,2,20,1,4,Yes
+25,IT,Sales Executive,132615,3,4,4,8,10,Yes,2,2,39,1,7,No
+33,Marketing,Sales Executive,52564,2,1,2,12,6,Yes,2,4,3,3,0,Yes
+37,Sales,Consultant,53835,3,3,3,1,4,Yes,2,2,5,1,0,Yes
+52,HR,Manager,86587,4,2,2,6,9,Yes,2,1,1,5,6,No
+49,Marketing,HR Executive,32697,1,2,1,15,3,No,2,3,15,0,5,Yes
+23,Sales,Developer,105165,4,2,1,18,4,No,1,3,26,6,4,No
+54,Finance,Analyst,98922,2,1,4,14,4,Yes,2,2,3,3,4,Yes
+47,IT,Sales Executive,42046,3,2,3,10,10,No,4,2,34,0,8,No
+33,IT,Analyst,82823,2,4,1,0,8,No,3,1,5,1,0,No
+53,IT,HR Executive,98580,2,4,3,6,11,No,2,3,31,0,7,No
+26,Finance,Sales Executive,78370,2,4,3,19,8,No,1,4,13,1,1,Yes
+44,Sales,Analyst,34615,3,1,3,7,5,Yes,4,4,1,6,6,Yes
+39,Finance,HR Executive,138338,4,2,3,9,3,No,4,2,22,1,5,No
+36,IT,Developer,30060,2,1,3,4,1,No,3,4,15,0,9,No
+48,Marketing,HR Executive,101436,3,2,2,8,2,Yes,4,1,26,6,1,Yes
+53,HR,Consultant,85519,1,3,4,0,1,Yes,4,4,18,1,2,Yes
+33,Finance,Sales Executive,145562,3,3,3,1,4,Yes,4,2,9,5,3,Yes
+45,Finance,Manager,96117,1,1,2,18,5,Yes,4,1,1,2,6,Yes
+56,Sales,Developer,86158,3,4,1,13,10,No,1,3,9,0,7,Yes
+47,Sales,Analyst,59782,4,1,3,19,4,Yes,3,1,23,2,1,No
+58,Finance,Sales Executive,110709,2,4,1,9,1,No,2,2,2,0,7,Yes
+27,IT,Manager,103533,4,2,3,8,11,No,4,2,14,1,8,No
+25,HR,HR Executive,133939,3,4,2,9,4,Yes,1,4,38,1,6,Yes
+51,Sales,Manager,83255,2,4,2,5,8,Yes,3,4,18,6,0,Yes
+43,IT,Sales Executive,136952,1,2,2,16,3,No,2,3,16,3,5,Yes
+30,Marketing,Sales Executive,97684,3,3,4,5,11,No,3,3,29,5,7,Yes
+52,Sales,Consultant,81918,2,2,1,3,9,Yes,1,2,11,3,4,Yes
+50,IT,Consultant,109284,1,1,4,19,1,Yes,1,2,6,2,1,Yes
+59,IT,Manager,104558,1,1,3,2,2,Yes,1,2,3,1,4,Yes
+51,HR,HR Executive,110549,4,1,1,18,2,No,4,3,14,3,7,No
+38,HR,Manager,129223,3,1,2,17,8,No,1,2,2,1,1,No
+56,Marketing,Sales Executive,106422,1,1,1,3,3,Yes,2,3,32,0,0,Yes
+22,IT,Sales Executive,145363,2,3,2,7,0,No,4,2,31,3,3,Yes
+34,IT,Analyst,50256,1,3,4,16,0,Yes,3,1,11,2,3,No
+33,HR,Consultant,55005,1,4,4,4,6,No,2,1,22,6,8,Yes
+49,Sales,Analyst,31638,4,1,2,12,6,No,4,2,3,3,2,No
+32,Sales,Developer,62419,4,2,2,0,1,Yes,1,1,31,1,3,Yes
+59,Finance,Sales Executive,58377,2,1,3,12,8,Yes,3,3,33,4,2,Yes
+22,HR,Analyst,131244,4,3,4,3,8,Yes,1,4,24,4,1,Yes
+52,Finance,Manager,68116,1,1,4,13,4,No,2,1,1,6,3,No
+33,HR,Consultant,61634,1,3,3,2,2,No,2,4,15,6,7,Yes
+47,Marketing,Consultant,107291,4,4,4,4,2,Yes,4,1,37,5,0,No
+37,IT,HR Executive,48382,1,4,2,6,11,No,2,3,27,6,7,Yes
+51,Marketing,Manager,140303,1,4,1,0,2,Yes,3,1,38,1,7,Yes
+54,HR,HR Executive,81063,2,3,1,11,5,No,4,1,27,0,2,Yes
+44,IT,Analyst,47394,4,1,4,10,3,Yes,3,2,12,3,9,No
+55,Sales,Developer,92789,1,1,3,7,7,No,1,4,3,6,9,Yes
+26,Sales,Manager,128246,4,2,2,5,10,No,3,4,30,4,5,Yes
+39,Finance,Manager,135634,2,3,1,1,10,No,3,3,32,0,3,Yes
+50,HR,Manager,25864,4,2,2,18,10,No,2,3,23,1,0,Yes
+27,HR,HR Executive,124572,1,4,4,19,4,Yes,1,4,2,0,0,Yes
+30,Sales,Analyst,65222,4,1,4,19,0,No,2,2,7,1,4,Yes
+52,Marketing,Manager,38666,1,3,1,13,8,Yes,1,2,34,5,7,Yes
+54,IT,Manager,148664,1,2,4,0,0,Yes,1,4,32,3,0,Yes
+48,Marketing,Consultant,45955,1,2,3,9,5,Yes,3,1,39,0,1,No
+35,Marketing,Developer,135674,2,2,4,15,0,Yes,2,4,32,3,6,Yes
+50,Sales,Consultant,128533,4,1,4,3,2,No,3,1,14,0,7,No
+57,Sales,Consultant,106845,2,1,4,10,9,Yes,3,4,3,1,2,Yes
+49,Sales,Developer,141925,4,1,2,15,4,No,3,1,32,1,7,No
+42,Finance,Analyst,94590,2,3,2,19,9,No,1,2,36,0,0,Yes
+24,Marketing,Consultant,91471,3,1,1,0,6,No,2,4,17,5,8,No
+40,HR,Analyst,135476,1,3,1,15,9,No,2,3,3,1,1,No
+52,IT,Consultant,113314,1,2,1,18,7,Yes,3,1,10,2,1,Yes
+56,Finance,Sales Executive,147579,2,2,4,8,11,No,1,2,18,2,3,Yes
+24,HR,Developer,68298,3,4,2,8,8,Yes,2,3,3,3,9,No
+47,Marketing,Consultant,88108,1,1,3,8,5,No,4,2,39,6,2,Yes
+37,Sales,Sales Executive,138864,4,2,4,16,10,No,2,1,10,2,3,No
+32,Marketing,HR Executive,73924,2,1,4,11,8,Yes,3,4,9,2,5,Yes
+42,IT,Sales Executive,41709,1,3,4,12,7,No,4,2,11,5,6,No
+37,Finance,Manager,34726,1,2,3,7,8,No,1,4,33,5,4,Yes
+30,Finance,Consultant,85824,2,1,1,15,9,No,4,4,36,6,1,Yes
+21,IT,Sales Executive,65542,2,2,3,17,3,No,4,2,26,4,2,No
+42,HR,Analyst,45245,4,2,1,0,8,No,3,2,27,6,9,Yes
+46,HR,HR Executive,59753,4,1,3,0,6,Yes,2,2,38,4,2,Yes
+38,Finance,Consultant,104788,1,2,2,11,4,No,1,4,22,5,4,Yes
+34,Finance,Manager,46316,1,2,4,5,4,No,4,3,26,4,4,No
+49,Sales,Sales Executive,127907,2,2,4,8,0,Yes,3,1,22,5,3,Yes
+32,HR,HR Executive,109698,1,2,4,4,1,No,2,3,5,4,7,Yes
+56,IT,Consultant,40960,1,3,1,15,9,Yes,4,4,35,1,5,Yes
+55,HR,HR Executive,55791,2,2,3,17,2,No,3,2,2,5,5,No
+32,Sales,Manager,132766,1,4,2,16,7,No,3,2,35,6,0,Yes
+27,Finance,Sales Executive,50216,1,2,3,17,5,Yes,3,1,9,3,5,Yes
+49,Finance,HR Executive,57467,3,1,4,0,11,No,1,1,18,3,2,No
+31,Sales,HR Executive,89427,4,4,2,18,9,No,2,3,12,5,5,No
+53,IT,Developer,137470,2,3,2,7,10,Yes,4,3,3,2,9,Yes
+26,Finance,HR Executive,87047,3,4,4,2,4,Yes,2,1,18,3,5,Yes
+35,Marketing,Developer,98290,4,4,3,4,0,No,2,4,38,6,1,No
+52,Finance,Sales Executive,72014,4,4,4,7,11,Yes,4,3,7,2,0,No
+31,Marketing,Consultant,29078,4,1,3,18,10,No,2,2,33,3,2,No
+43,Sales,Consultant,103389,3,1,2,17,11,Yes,1,2,6,0,4,No
+46,Sales,Sales Executive,75519,3,1,2,17,8,No,4,4,18,0,3,No
+54,Finance,Sales Executive,29042,4,3,4,0,2,Yes,4,1,22,5,6,Yes
+54,HR,Analyst,74052,1,1,2,14,2,Yes,3,3,39,6,3,Yes
+49,Marketing,Sales Executive,39389,1,1,1,17,1,Yes,2,2,9,6,7,No
+24,IT,HR Executive,120961,3,4,2,6,3,Yes,4,1,35,3,6,No
+37,Finance,Consultant,93111,3,1,1,15,11,Yes,4,3,23,1,9,Yes
+55,IT,Manager,130058,3,2,2,15,1,Yes,1,4,12,2,8,Yes
+33,Finance,Consultant,118715,4,1,4,14,8,Yes,3,2,24,3,0,No
+59,HR,Developer,75733,1,3,4,5,11,Yes,4,4,9,5,4,No
+35,HR,Consultant,59754,3,3,1,8,9,Yes,1,4,13,2,3,Yes
+49,HR,Analyst,43624,3,2,4,6,6,No,4,4,17,4,5,No
+49,HR,Sales Executive,110886,2,3,2,13,7,Yes,4,3,7,5,0,No
+31,Sales,Sales Executive,51681,4,3,2,10,2,No,4,4,17,3,5,No
+52,Sales,Consultant,114524,2,4,4,15,5,Yes,1,3,24,1,0,No
+22,Marketing,Manager,106006,1,2,2,5,9,No,2,3,2,4,0,Yes
+34,IT,Manager,49704,2,4,3,15,5,No,4,4,35,5,7,Yes
+40,Finance,Analyst,129272,2,4,3,19,0,Yes,4,4,28,3,1,Yes
+42,Finance,Developer,119913,2,1,2,15,5,Yes,2,1,19,0,9,Yes
+31,Sales,Consultant,119108,4,2,4,11,2,No,4,2,33,6,5,No
+47,Finance,Sales Executive,148731,1,1,1,16,10,No,3,1,21,3,5,Yes
+23,Sales,Consultant,32493,2,1,4,4,2,Yes,4,2,10,0,5,No
+37,Marketing,Analyst,94639,4,4,1,12,2,Yes,3,2,9,0,7,No
+48,IT,HR Executive,125380,1,3,4,7,9,Yes,2,1,38,5,3,Yes
+49,Marketing,HR Executive,79383,3,2,2,4,10,No,1,1,6,3,2,No
+41,HR,Analyst,27994,2,3,3,11,10,Yes,2,2,35,6,5,Yes
+36,HR,Sales Executive,94280,1,4,4,8,9,Yes,4,2,18,3,3,No
+57,HR,Analyst,72234,2,4,1,2,10,Yes,3,2,19,0,1,Yes
+40,Marketing,Sales Executive,72291,3,4,3,2,7,Yes,1,3,5,2,5,Yes
+26,Finance,Manager,117868,1,4,1,0,4,Yes,4,2,25,4,9,Yes
+39,IT,Analyst,30594,4,4,2,17,3,No,1,4,11,1,4,Yes
+25,HR,Sales Executive,130835,1,4,3,11,8,No,1,4,10,3,8,No
+23,HR,Analyst,32371,4,3,1,8,8,Yes,4,4,17,4,5,Yes
+21,HR,Analyst,72315,1,1,4,8,0,Yes,2,1,36,4,2,Yes
+58,IT,Sales Executive,108564,4,3,2,17,1,No,4,1,26,2,4,No
+35,HR,Sales Executive,126448,3,2,2,17,7,Yes,4,1,31,4,9,Yes
+54,IT,Developer,104526,3,3,2,6,4,No,2,2,32,3,7,Yes
+55,HR,Analyst,137387,3,4,4,3,6,Yes,3,4,21,5,8,No
+45,Marketing,HR Executive,41626,1,3,4,12,0,No,4,2,18,5,7,No
+44,Marketing,Analyst,111005,3,1,3,16,11,No,1,3,18,4,2,No
+32,IT,Analyst,131258,2,2,4,1,9,Yes,4,3,1,3,8,Yes
+38,Marketing,Sales Executive,130573,3,3,3,13,11,No,4,1,14,3,2,No
+35,IT,Analyst,32130,4,1,2,2,4,Yes,1,3,8,0,7,Yes
